@@ -22,14 +22,14 @@ PANEL_KOK = Path(__file__).parent
 
 # Hazır soru havuzu — Gemini fail olursa düşülecek fallback
 SORULAR = [
-    "Which fact shocked you most? Drop a 🤯 below!",
-    "Did you know this? Tell me in comments 👇",
-    "Wait, was this new to you? Let me know!",
-    "Nature is wild. What's the weirdest fact YOU know?",
-    "This blew my mind. Yours too? 👇",
-    "Drop a 🌍 if you learned something new today!",
-    "Comment your favorite animal fact 👇",
-    "Did this surprise you as much as me?",
+    "Did this match your experience? 🧠",
+    "Wait — did you catch yourself doing this? 👇",
+    "Which mind trick surprised you most? 🤯",
+    "Have you noticed this in yourself?",
+    "Drop a 🧠 if this hit different.",
+    "What's a psychology fact that blew YOUR mind?",
+    "Comment if you recognized yourself here 👇",
+    "Did this change how you see yourself?",
 ]
 
 
