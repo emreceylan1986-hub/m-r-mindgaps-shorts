@@ -27,47 +27,48 @@ PANEL_KOK = Path(__file__).parent
 TOKEN = PANEL_KOK / "token.json"
 BANNER = PANEL_KOK / "branding" / "banner.png"
 
-# Kanal "About" metni — TrendCatcher (extreme nature niş)
-KANAL_DESCRIPTION = """🐐 Daily extreme nature & wildlife shorts that defy belief.
+# Kanal "About" metni — Mindgaps (psikoloji / "senin zihnin hakkında" facts)
+KANAL_DESCRIPTION = """🧠 Daily psychology & brain shorts about who you really are.
 
-TrendCatcher brings you the most mind-blowing facts about extreme animals, anomaly places, and tiny creatures with superpowers — all in bite-sized 30-60 second Shorts.
+Your mind is hiding things from you. Mindgaps reveals them — science-backed facts about how your brain, personality, habits, and relationships actually work. Why you do what you do, in under 60 seconds.
 
-🌍 New wild facts every day at 3 PM, 7 PM, 10 PM and 1 AM (TR).
-🦅 Designed for the curious mind, the nature lover, the explorer.
+🧬 New short every day at 5 PM, 9 PM and midnight (UTC).
+🔔 Subscribe and notice yourself differently.
 
-For more wild discoveries → subscribe.
+For more mind-bending facts → subscribe.
 
-Business inquiries: emreceylan55555@gmail.com"""
+Business inquiries: emreceylanistanbul@gmail.com"""
 
 # Kanal arama anahtarları (search'te bulunabilirlik)
 KANAL_KEYWORDS = (
-    '"nature" "wildlife" "animals" "extreme animals" "science" '
-    '"mountain goat" "tardigrade" "blobfish" "mantis shrimp" '
-    '"anomaly" "pink lake" "deep sea" "antarctic" "shorts" "wild facts"'
+    '"psychology" "psychology facts" "brain facts" "mind facts" '
+    '"human behavior" "personality" "self improvement" "mindset" '
+    '"cognitive bias" "dopamine" "habits" "body language" '
+    '"relationship psychology" "memory" "neuroscience" "shorts"'
 )
 
-# 3 ana playlist — TC nişi (extreme nature)
+# 3 ana playlist — Mindgaps nişi (7 günlük tema rotasyonundan ana 3'lü)
 PLAYLISTS = [
     {
-        "title": "Extreme Animals & Superpowers",
-        "description": "Animals with unbelievable abilities — climbing cliffs, breaking sound, surviving the impossible. 30-60 sec wild facts.",
-        "keywords": ["eagle", "mantis shrimp", "mountain goat", "cone snail", "jumping spider",
-                     "pangolin", "shrimp", "ibex", "markhor", "weaver bird", "octopus",
-                     "vampire squid", "secretarybird", "raptor"],
+        "title": "Your Brain & How It Works",
+        "description": "Neuroscience, dopamine, memory, focus, sleep — quick science-backed facts about the brain you live in.",
+        "keywords": ["brain", "neuroscience", "dopamine", "memory", "focus", "sleep",
+                     "neuron", "amygdala", "prefrontal", "anxiety", "stress",
+                     "habit", "mental", "cognitive"],
     },
     {
-        "title": "Anomaly Places & Wonders",
-        "description": "Lakes that boil, valleys with no rain, ice that thrives in heat — Earth's strangest places explained.",
-        "keywords": ["lake", "antarctic", "ocean", "deep sea", "valley", "cave",
-                     "boiling", "pink", "salt", "freshwater", "glacier", "vent",
-                     "baikal", "hillier", "dead sea"],
+        "title": "Why You Do That — Personality & Behavior",
+        "description": "Personality, habits, hidden motives — psychology facts that explain why you do what you do.",
+        "keywords": ["personality", "behavior", "habit", "introvert", "extrovert",
+                     "self", "motivation", "decision", "bias", "perception",
+                     "trait", "type", "tendency"],
     },
     {
-        "title": "Tiny Creatures, Big Survival",
-        "description": "Microbes, fungi, parasites, tardigrades — the smallest survivors with the wildest tricks.",
-        "keywords": ["tardigrade", "microbe", "fungus", "midge", "ant", "frog",
-                     "naked mole-rat", "cavefish", "ice worm", "massospora",
-                     "zombie", "tube worm", "extremophile"],
+        "title": "People, Attraction & Persuasion",
+        "description": "Relationships, attraction, body language, persuasion, dark psychology — how minds interact.",
+        "keywords": ["relationship", "attraction", "body language", "persuasion",
+                     "dark psychology", "influence", "manipulation", "love",
+                     "trust", "social", "charisma", "first impression"],
     },
 ]
 
