@@ -1,17 +1,17 @@
 {
-  "uretim_zamani": "2026-06-25T19:42:58.162750+00:00",
+  "uretim_zamani": "2026-06-25T22:14:00.076826+00:00",
   "haberler": [
     {
-      "baslik": "This is why you remember embarrassments more than triumphs.",
-      "url": "https://en.wikipedia.org/wiki/Negativity_bias",
+      "baslik": "This is why you remember the beginning and end of conversations best",
+      "url": "https://en.wikipedia.org/wiki/Serial-position_effect",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 3-second 'power pose' that instantly boosts your confidence.",
-      "url": "https://en.wikipedia.org/wiki/Power_posing",
+      "baslik": "The 'spotlight effect': why you think everyone notices your flaws",
+      "url": "https://en.wikipedia.org/wiki/Spotlight_effect",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
