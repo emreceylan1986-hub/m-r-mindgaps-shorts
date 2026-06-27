@@ -64,3 +64,9 @@
 [2026-06-26 22:53:42] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
 [2026-06-26 22:53:42] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
+[2026-06-27 04:13:23] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 92u) ===
+[2026-06-27 04:13:23] Son 8 video taranıyor...
+[2026-06-27 04:13:24]   video Fh3Ak0qP yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=Fh3Ak0qPNNA&maxResults=100&orde
+[2026-06-27 04:13:25] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-06-27 04:13:25] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
