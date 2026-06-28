@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-06-28T10:18:15.383845+00:00",
+  "uretim_zamani": "2026-06-28T12:05:59.897660+00:00",
   "haberler": [
     {
       "baslik": "This is why you remember song lyrics better than your to-do list.",
-      "url": "https://en.wikipedia.org/wiki/Musical_memory",
+      "url": "https://en.wikipedia.org/wiki/Musical_mnemonics",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain creates 'false memories' to fill in the gaps. Here's why.",
-      "url": "https://en.wikipedia.org/wiki/Confabulation",
+      "baslik": "Your brain creates 'false memories' to fill in gaps. Here's why.",
+      "url": "https://en.wikipedia.org/wiki/False_memory",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 5-second rule that makes you instantly more productive.",
-      "url": "https://en.wikipedia.org/wiki/Self-regulation",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
