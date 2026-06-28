@@ -1,25 +1,25 @@
 {
-  "uretim_zamani": "2026-06-26T21:59:35.941124+00:00",
+  "uretim_zamani": "2026-06-28T10:18:15.383845+00:00",
   "haberler": [
     {
-      "baslik": "The Real Reason You Always Pick the Same Type of Partner",
-      "url": "https://en.wikipedia.org/wiki/Assortative_mating",
+      "baslik": "This is why you remember song lyrics better than your to-do list.",
+      "url": "https://en.wikipedia.org/wiki/Musical_memory",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Deletes Memories Every Night (The Forgetting Curve)",
-      "url": "https://en.wikipedia.org/wiki/Forgetting_curve",
+      "baslik": "Your brain creates 'false memories' to fill in the gaps. Here's why.",
+      "url": "https://en.wikipedia.org/wiki/Confabulation",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "This Is Why You Can't Stop Overthinking Every Decision",
-      "url": "https://en.wikipedia.org/wiki/Rumination_(psychology)",
+      "baslik": "The 5-second rule that makes you instantly more productive.",
+      "url": "https://en.wikipedia.org/wiki/Self-regulation",
       "kaynak": "gemini-fallback",
       "skor": 997,
       "yas_saat": 0,
