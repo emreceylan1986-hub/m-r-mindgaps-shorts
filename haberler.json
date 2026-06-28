@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-06-27T15:06:56.717646+00:00",
+  "uretim_zamani": "2026-06-28T10:18:15.383845+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Confuses Thirst with Hunger (You're Not Actually Hungry)",
-      "url": "https://en.wikipedia.org/wiki/Thirst",
-      "kaynak": "gemini-fallback",
-      "skor": 1000,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your Brain Deletes This Type of Memory While You Sleep",
-      "url": "https://en.wikipedia.org/wiki/Memory_consolidation",
+      "baslik": "This is why you remember song lyrics better than your to-do list.",
+      "url": "https://en.wikipedia.org/wiki/Musical_memory",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "What Your Most Common Dream Symbols Reveal About You",
-      "url": "https://en.wikipedia.org/wiki/Dream_interpretation",
+      "baslik": "Your brain creates 'false memories' to fill in the gaps. Here's why.",
+      "url": "https://en.wikipedia.org/wiki/Confabulation",
       "kaynak": "gemini-fallback",
       "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 5-second rule that makes you instantly more productive.",
+      "url": "https://en.wikipedia.org/wiki/Self-regulation",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
