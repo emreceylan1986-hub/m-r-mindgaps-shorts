@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-06-28T15:09:02.359950+00:00",
+  "uretim_zamani": "2026-06-28T18:58:32.654530+00:00",
   "haberler": [
     {
-      "baslik": "The 3-second rule that instantly boosts your focus.",
-      "url": "https://en.wikipedia.org/wiki/Attention",
+      "baslik": "This is why your brain loves familiar things (even bad ones)",
+      "url": "https://en.wikipedia.org/wiki/Familiarity_heuristic",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The Zeigarnik Effect: Why Your Brain Can't Stop Thinking About Unfinished Tasks",
+      "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
       "kaynak": "gemini-fallback",
       "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Your Brain Deletes Memories While You Sleep (and why that's good)",
+      "url": "https://en.wikipedia.org/wiki/Sleep_and_memory",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
