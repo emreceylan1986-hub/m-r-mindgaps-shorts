@@ -1,17 +1,9 @@
 {
-  "uretim_zamani": "2026-06-28T12:05:59.897660+00:00",
+  "uretim_zamani": "2026-06-29T12:54:52.839074+00:00",
   "haberler": [
     {
-      "baslik": "This is why you remember song lyrics better than your to-do list.",
-      "url": "https://en.wikipedia.org/wiki/Musical_mnemonics",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your brain creates 'false memories' to fill in gaps. Here's why.",
-      "url": "https://en.wikipedia.org/wiki/False_memory",
+      "baslik": "This is why your brain always finishes incomplete tasks (and won't let you sleep)",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_dissonance",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
