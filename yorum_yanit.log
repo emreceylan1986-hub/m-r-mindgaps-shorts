@@ -230,3 +230,17 @@
 [2026-06-29 22:19:52] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
 [2026-06-29 22:19:52] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
+[2026-06-29 23:30:10] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 130u) ===
+[2026-06-29 23:30:10] Son 15 video taranıyor...
+[2026-06-29 23:30:10]   video 27QqQ6zJ yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=27QqQ6zJ688&maxResults=100&orde
+[2026-06-29 23:30:11]   video xFIPv2EP yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=xFIPv2EP_3k&maxResults=100&orde
+[2026-06-29 23:30:11]   video 7-8u-WZ1 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=7-8u-WZ1s1U&maxResults=100&orde
+[2026-06-29 23:30:11]   video 4jM_p39J yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=4jM_p39JcS4&maxResults=100&orde
+[2026-06-29 23:30:11]   video iDHqTCuQ yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=iDHqTCuQasY&maxResults=100&orde
+[2026-06-29 23:30:12]   video xnz8g3x5 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=xnz8g3x5rvU&maxResults=100&orde
+[2026-06-29 23:30:12]   video iMR2SpMf yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=iMR2SpMfWoo&maxResults=100&orde
+[2026-06-29 23:30:12]   video 3fyYXNo8 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=3fyYXNo8zkw&maxResults=100&orde
+[2026-06-29 23:30:12]   video 8xP5h-VA yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=8xP5h-VAl7Y&maxResults=100&orde
+[2026-06-29 23:30:12] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-06-29 23:30:12] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
