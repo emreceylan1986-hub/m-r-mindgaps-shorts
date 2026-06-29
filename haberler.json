@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-06-29T16:48:57.378256+00:00",
+  "uretim_zamani": "2026-06-29T19:29:40.635544+00:00",
   "haberler": [
     {
-      "baslik": "Your Brain Deletes This Type of Memory Every Single Night",
-      "url": "https://en.wikipedia.org/wiki/Amnesia",
+      "baslik": "The 3-Second Rule That Makes Your Brain Trust You",
+      "url": "https://en.wikipedia.org/wiki/Mirror_neuron",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 3-Second Trick That Makes Anyone Trust You Instantly",
-      "url": "https://en.wikipedia.org/wiki/Trust_(social_science)",
+      "baslik": "This is Why You Can't Stop Overthinking",
+      "url": "https://en.wikipedia.org/wiki/Self-referential_cognition",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What Your Favorite Color Reveals About Your Personality",
+      "url": "https://en.wikipedia.org/wiki/Color_psychology",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
