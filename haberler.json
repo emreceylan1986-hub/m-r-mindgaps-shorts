@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-06-29T19:29:40.635544+00:00",
+  "uretim_zamani": "2026-06-29T22:02:20.062446+00:00",
   "haberler": [
     {
-      "baslik": "The 3-Second Rule That Makes Your Brain Trust You",
-      "url": "https://en.wikipedia.org/wiki/Mirror_neuron",
+      "baslik": "This is why you constantly check your phone for phantom vibrations",
+      "url": "https://en.wikipedia.org/wiki/Phantom_vibration_syndrome",
       "kaynak": "gemini-fallback",
-      "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "This is Why You Can't Stop Overthinking",
-      "url": "https://en.wikipedia.org/wiki/Self-referential_cognition",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What Your Favorite Color Reveals About Your Personality",
-      "url": "https://en.wikipedia.org/wiki/Color_psychology",
-      "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
