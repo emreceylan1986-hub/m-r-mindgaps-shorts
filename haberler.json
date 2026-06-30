@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-06-30T09:54:54.342373+00:00",
+  "uretim_zamani": "2026-06-30T16:13:56.984450+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Makes You Crave Familiar Comfort Foods When Stressed",
-      "url": "https://en.wikipedia.org/wiki/Comfort_food",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The Real Reason You Always Think Others Are Judging You More Than They Are",
-      "url": "https://en.wikipedia.org/wiki/Social_anxiety",
+      "baslik": "Your brain does THIS to avoid pain, even when it's good for you.",
+      "url": "https://en.wikipedia.org/wiki/Loss_aversion",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your Brain Tricks You Into Buying More When Stores Use This Simple Layout",
-      "url": "https://en.wikipedia.org/wiki/Retail_psychology",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
