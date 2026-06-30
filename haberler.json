@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-06-29T22:02:20.062446+00:00",
+  "uretim_zamani": "2026-06-30T09:54:54.342373+00:00",
   "haberler": [
     {
-      "baslik": "This is why you constantly check your phone for phantom vibrations",
-      "url": "https://en.wikipedia.org/wiki/Phantom_vibration_syndrome",
+      "baslik": "Why Your Brain Makes You Crave Familiar Comfort Foods When Stressed",
+      "url": "https://en.wikipedia.org/wiki/Comfort_food",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The Real Reason You Always Think Others Are Judging You More Than They Are",
+      "url": "https://en.wikipedia.org/wiki/Social_anxiety",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your Brain Tricks You Into Buying More When Stores Use This Simple Layout",
+      "url": "https://en.wikipedia.org/wiki/Retail_psychology",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
