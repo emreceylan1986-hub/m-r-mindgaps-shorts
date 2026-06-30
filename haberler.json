@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-06-30T16:13:56.984450+00:00",
+  "uretim_zamani": "2026-06-30T19:27:58.573014+00:00",
   "haberler": [
     {
-      "baslik": "Your brain does THIS to avoid pain, even when it's good for you.",
-      "url": "https://en.wikipedia.org/wiki/Loss_aversion",
+      "baslik": "Why you instantly judge someone's competence by their voice",
+      "url": "https://en.wikipedia.org/wiki/Vocal_attractiveness",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 'Peak-End Rule': Why Your Brain Only Remembers the Best & Worst Moments",
+      "url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule",
       "kaynak": "gemini-fallback",
       "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Your Brain Thinks You've Already Done a Task (It's Called Prospective Memory Failure)",
+      "url": "https://en.wikipedia.org/wiki/Prospective_memory",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
