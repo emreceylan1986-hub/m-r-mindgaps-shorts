@@ -310,3 +310,18 @@
 [2026-07-01 01:34:15] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
 [2026-07-01 01:34:15] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
+[2026-07-01 06:08:58] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 195u) ===
+[2026-07-01 06:08:58] Son 18 video taranıyor...
+[2026-07-01 06:08:59]   video gz_DLLBM yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=gz_DLLBMn6o&maxResults=100&orde
+[2026-07-01 06:09:00]   video D-QjccKb yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=D-QjccKbBVo&maxResults=100&orde
+[2026-07-01 06:09:00]   video 7-8u-WZ1 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=7-8u-WZ1s1U&maxResults=100&orde
+[2026-07-01 06:09:00]   video 4jM_p39J yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=4jM_p39JcS4&maxResults=100&orde
+[2026-07-01 06:09:00]   video iDHqTCuQ yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=iDHqTCuQasY&maxResults=100&orde
+[2026-07-01 06:09:01]   video Fh3Ak0qP yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=Fh3Ak0qPNNA&maxResults=100&orde
+[2026-07-01 06:09:01]   video xnz8g3x5 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=xnz8g3x5rvU&maxResults=100&orde
+[2026-07-01 06:09:01]   video iMR2SpMf yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=iMR2SpMfWoo&maxResults=100&orde
+[2026-07-01 06:09:01]   video 3fyYXNo8 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=3fyYXNo8zkw&maxResults=100&orde
+[2026-07-01 06:09:01]   video 8xP5h-VA yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=8xP5h-VAl7Y&maxResults=100&orde
+[2026-07-01 06:09:01] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-07-01 06:09:01] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
