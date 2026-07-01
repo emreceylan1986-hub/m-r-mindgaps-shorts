@@ -1,11 +1,19 @@
 {
-  "uretim_zamani": "2026-07-01T19:27:00.359998+00:00",
+  "uretim_zamani": "2026-07-01T22:10:56.517535+00:00",
   "haberler": [
     {
-      "baslik": "The 'Fake Smile' You Make When You're Uncomfortable (It's a Real Reflex)",
-      "url": "https://en.wikipedia.org/wiki/Duchenne_smile",
+      "baslik": "This is why you talk to yourself, and it's good for you",
+      "url": "https://en.wikipedia.org/wiki/Self-talk",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What your daily habits reveal about your hidden personality traits",
+      "url": "https://en.wikipedia.org/wiki/Trait_theory",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
