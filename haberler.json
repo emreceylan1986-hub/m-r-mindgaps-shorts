@@ -1,19 +1,11 @@
 {
-  "uretim_zamani": "2026-07-01T16:13:54.516007+00:00",
+  "uretim_zamani": "2026-07-01T19:27:00.359998+00:00",
   "haberler": [
     {
-      "baslik": "What Your Favorite Color Reveals About Your Personality",
-      "url": "https://en.wikipedia.org/wiki/Color_preference",
+      "baslik": "The 'Fake Smile' You Make When You're Uncomfortable (It's a Real Reflex)",
+      "url": "https://en.wikipedia.org/wiki/Duchenne_smile",
       "kaynak": "gemini-fallback",
       "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 'Endowment Effect': Why You Overvalue Your Own Stuff",
-      "url": "https://en.wikipedia.org/wiki/Endowment_effect",
-      "kaynak": "gemini-fallback",
-      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
