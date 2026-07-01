@@ -302,3 +302,11 @@
 [2026-06-30 21:57:14] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
 [2026-06-30 23:12:51] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 177u) ===
+[2026-07-01 01:34:11] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 178u) ===
+[2026-07-01 01:34:12] Son 18 video taranıyor...
+[2026-07-01 01:34:14]   video iMR2SpMf yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=iMR2SpMfWoo&maxResults=100&orde
+[2026-07-01 01:34:14]   video 3fyYXNo8 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=3fyYXNo8zkw&maxResults=100&orde
+[2026-07-01 01:34:15]   video 8xP5h-VA yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=8xP5h-VAl7Y&maxResults=100&orde
+[2026-07-01 01:34:15] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-07-01 01:34:15] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
