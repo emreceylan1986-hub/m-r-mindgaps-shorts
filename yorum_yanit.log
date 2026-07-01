@@ -360,3 +360,10 @@
 [2026-07-01 22:38:51] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
 [2026-07-01 22:38:51] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
+[2026-07-01 23:54:26] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 189u) ===
+[2026-07-01 23:54:26] Son 20 video taranıyor...
+[2026-07-01 23:54:29]   video D-QjccKb yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=D-QjccKbBVo&maxResults=100&orde
+[2026-07-01 23:54:29]   video 4jM_p39J yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=4jM_p39JcS4&maxResults=100&orde
+[2026-07-01 23:54:30] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-07-01 23:54:30] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 0) ===
