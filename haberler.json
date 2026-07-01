@@ -1,11 +1,19 @@
 {
-  "uretim_zamani": "2026-06-30T22:06:35.485310+00:00",
+  "uretim_zamani": "2026-07-01T16:13:54.516007+00:00",
   "haberler": [
     {
-      "baslik": "Why You Can't Stop Thinking About That Awkward Moment",
-      "url": "https://en.wikipedia.org/wiki/Intrusive_thought",
+      "baslik": "What Your Favorite Color Reveals About Your Personality",
+      "url": "https://en.wikipedia.org/wiki/Color_preference",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 'Endowment Effect': Why You Overvalue Your Own Stuff",
+      "url": "https://en.wikipedia.org/wiki/Endowment_effect",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
