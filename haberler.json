@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-02T19:04:51.652608+00:00",
+  "uretim_zamani": "2026-07-02T21:56:30.041704+00:00",
   "haberler": [
     {
-      "baslik": "Your Brain Creates 'False Consensus'—You Think Everyone Agrees With You",
-      "url": "https://en.wikipedia.org/wiki/False_consensus_effect",
+      "baslik": "The 'Ben Franklin Effect': How asking for a small favor makes people like you more",
+      "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "This Is Why You Can't Stop Humming That Annoying Song (It's Your Brain's Loop)",
-      "url": "https://en.wikipedia.org/wiki/Earworm",
+      "baslik": "Why your brain makes you notice your name in a noisy room.",
+      "url": "https://en.wikipedia.org/wiki/Cocktail_party_effect",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your brain creates 'flashbulb memories' for shocking events – even if they're wrong.",
+      "url": "https://en.wikipedia.org/wiki/Flashbulb_memory",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
