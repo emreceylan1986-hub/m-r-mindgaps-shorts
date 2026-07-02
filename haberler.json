@@ -1,11 +1,19 @@
 {
-  "uretim_zamani": "2026-07-02T15:58:39.629261+00:00",
+  "uretim_zamani": "2026-07-02T19:04:51.652608+00:00",
   "haberler": [
     {
-      "baslik": "The 3-second 'Gaze Trick' that makes anyone trust you instantly.",
-      "url": "https://en.wikipedia.org/wiki/Eye_contact",
+      "baslik": "Your Brain Creates 'False Consensus'—You Think Everyone Agrees With You",
+      "url": "https://en.wikipedia.org/wiki/False_consensus_effect",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "This Is Why You Can't Stop Humming That Annoying Song (It's Your Brain's Loop)",
+      "url": "https://en.wikipedia.org/wiki/Earworm",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
