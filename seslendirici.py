@@ -92,15 +92,24 @@ Required structure (100-130 words total (≈55-60 seconds — long Shorts for en
 - CONTEXT (1-2 sentences): the actual psychology/neuroscience behind it, plain language.
   ── 8-12. saniye drop-off riski yüksek — bu cümlede SOMUT bir SAYI veya
      karşılaştırma kullan (kaç kat, kaç ms, % kaç insan). Sayı = retention boost.
+- RE-HOOK (1 short sentence, right after CONTEXT — 2 Tem retention): re-open
+  the curiosity gap at the mid-point where drop-off peaks. Rotate feels:
+  "And here's the part nobody talks about." / "But your brain goes further." /
+  "This is where it gets personal." — MUST still be 100% true.
 - PAYOFF (1 short sentence): a thought-provoking closing about the viewer's mind.
   Örnek: "Your mind is stranger than you think."
-- SUBSCRIBE CTA (final sentence, MANDATORY, exactly 1 short line, max 7 words):
-  ── A casual, warm, NOT pushy subscribe ask. Examples:
+- FINAL LINE (MANDATORY, exactly 1 short line, max 8 words) — pick ONE by topic:
+  A) COMMENT QUESTION (psychology is PERSONAL — prefer this in ~2 of 3 videos):
+     one self-recognition question viewers answer instantly. Examples:
+     "Does this happen to you?" / "Overthinker or avoider — which are you?" /
+     "What's the last thing you rechecked?"
+     NEVER the words "comment below" — the bare question IS the invitation.
+  B) SUBSCRIBE ASK (otherwise): casual, warm, NOT pushy. Examples:
      "Subscribe for daily mind facts."
      "Follow to understand yourself better."
-     "Subscribe — one mind fact daily."
-     "Follow for daily psychology secrets."
-  ── Variation per video. NEVER say "like", "share", "comment below".
+  ── Variation per video. NEVER say "like" or "share".
+  ── LOOP RULE: the ending must NOT feel like a goodbye — when the Short
+     restarts, the flow should feel seamless (loop = rewatch = algorithm boost).
   ── NO hashtags, NO emojis in the script body.
 
 Constraints:
