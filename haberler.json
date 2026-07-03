@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-03T18:57:02.077008+00:00",
+  "uretim_zamani": "2026-07-03T21:53:31.296885+00:00",
   "haberler": [
     {
-      "baslik": "This Is Why You Mimic People You Like (The Unconscious Bonding Trick)",
-      "url": "https://en.wikipedia.org/wiki/Chameleon_effect",
+      "baslik": "The actual reason you can't remember your dreams sometimes",
+      "url": "https://en.wikipedia.org/wiki/Dream_recall",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your Brain Rewrites Your Memories Every Time You Recall Them",
-      "url": "https://en.wikipedia.org/wiki/Memory_reconsolidation",
+      "baslik": "The trick to instantly make people feel comfortable around you",
+      "url": "https://en.wikipedia.org/wiki/Rapport",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The Baader-Meinhof Phenomenon: Why You See New Things Everywhere",
-      "url": "https://en.wikipedia.org/wiki/Frequency_illusion",
+      "baslik": "Your brain creates a 'mental map' of conversations, making you forget details",
+      "url": "https://en.wikipedia.org/wiki/Memory_construction",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 988,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
