@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-07-02T21:56:30.041704+00:00",
+  "uretim_zamani": "2026-07-03T15:46:52.574565+00:00",
   "haberler": [
     {
-      "baslik": "The 'Ben Franklin Effect': How asking for a small favor makes people like you more",
-      "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+      "baslik": "The 'Doorway Effect': Why You Forget What You Came For in New Rooms",
+      "url": "https://en.wikipedia.org/wiki/Event_boundary",
       "kaynak": "gemini-fallback",
-      "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain makes you notice your name in a noisy room.",
-      "url": "https://en.wikipedia.org/wiki/Cocktail_party_effect",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your brain creates 'flashbulb memories' for shocking events – even if they're wrong.",
-      "url": "https://en.wikipedia.org/wiki/Flashbulb_memory",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
