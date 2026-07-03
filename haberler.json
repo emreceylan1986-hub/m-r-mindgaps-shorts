@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-07-03T15:46:52.574565+00:00",
+  "uretim_zamani": "2026-07-03T18:57:02.077008+00:00",
   "haberler": [
     {
-      "baslik": "The 'Doorway Effect': Why You Forget What You Came For in New Rooms",
-      "url": "https://en.wikipedia.org/wiki/Event_boundary",
+      "baslik": "This Is Why You Mimic People You Like (The Unconscious Bonding Trick)",
+      "url": "https://en.wikipedia.org/wiki/Chameleon_effect",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your Brain Rewrites Your Memories Every Time You Recall Them",
+      "url": "https://en.wikipedia.org/wiki/Memory_reconsolidation",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The Baader-Meinhof Phenomenon: Why You See New Things Everywhere",
+      "url": "https://en.wikipedia.org/wiki/Frequency_illusion",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
