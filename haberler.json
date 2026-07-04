@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-04T18:49:56.516231+00:00",
+  "uretim_zamani": "2026-07-04T21:44:51.844318+00:00",
   "haberler": [
     {
-      "baslik": "Your Brain Creates Faces in Random Objects – Here's Why",
-      "url": "https://en.wikipedia.org/wiki/Pareidolia",
+      "baslik": "Why your brain creates vivid, bizarre dreams to process emotions",
+      "url": "https://en.wikipedia.org/wiki/Dream_theory",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "This is Why You Can't Remember Your Dreams (Most Of The Time)",
-      "url": "https://en.wikipedia.org/wiki/Dream",
+      "baslik": "The real reason you wake up just before your alarm clock",
+      "url": "https://en.wikipedia.org/wiki/Circadian_rhythm",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your brain performs a 'memory clean-up' every time you sleep",
+      "url": "https://en.wikipedia.org/wiki/Sleep_deprivation",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
