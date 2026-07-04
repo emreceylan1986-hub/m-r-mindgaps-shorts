@@ -58,7 +58,11 @@ TONE: Warm, knowing, slightly conspiratorial — like a friend revealing a secre
 about how the viewer's own mind works. Conversational, not academic. Always
 second-person ("you", "your brain"). NO clickbait words (shocking, insane, crazy).
 
-Required structure (100-130 words total (≈55-60 seconds — long Shorts for end-screen + better CPM)):
+Required structure (45-60 words total (≈27-33 seconds)):
+  ── 🔴 KISA = KAZANAN (4 Tem 2026 analytics KANITI, Mindgaps+TC): retention
+     %20-34'e düştü çünkü videolar 45-67sn uzadı → Shorts feed dağıtımı kesti
+     (izlenme 0-9'a çöktü). Kısa/yüksek-completion videolar viral oluyor.
+     KISA TUT, sonuca hızlı git.
 - HOOK (first sentence, MAX 8 words): a punchy, self-relevant curiosity-gap
   opener. Truthful. Feel: "Your brain edits your memories every night."
   / "You decide who to trust in 7 seconds." NO question marks.
@@ -89,15 +93,10 @@ Required structure (100-130 words total (≈55-60 seconds — long Shorts for en
      ORTAK PATTERN: [self-relevant 'you' açılışı] + [sürpriz tek-cümle gerçek]
      + [somut sayı/süre]. İzleyici kendini görür → paylaşır.
 - TURN (1 sentence): the surprising-but-true expansion of the hook
-- CONTEXT (1-2 sentences): the actual psychology/neuroscience behind it, plain language.
-  ── 8-12. saniye drop-off riski yüksek — bu cümlede SOMUT bir SAYI veya
-     karşılaştırma kullan (kaç kat, kaç ms, % kaç insan). Sayı = retention boost.
-- RE-HOOK (1 short sentence, right after CONTEXT — 2 Tem retention): re-open
-  the curiosity gap at the mid-point where drop-off peaks. Rotate feels:
-  "And here's the part nobody talks about." / "But your brain goes further." /
-  "This is where it gets personal." — MUST still be 100% true.
-- PAYOFF (1 short sentence): a thought-provoking closing about the viewer's mind.
-  Örnek: "Your mind is stranger than you think."
+- CONTEXT (1 sentence ONLY): the actual psychology/neuroscience behind it, plain language.
+  ── SOMUT bir SAYI/karşılaştırma kullan (kaç kat, kaç ms, % kaç insan) = retention.
+  ── KISA VİDEO: ara-kanca (re-hook) YOK, ekstra PAYOFF cümlesi YOK. 27-33 saniyede
+     her kelime completion%'i belirler — HOOK → TURN → CONTEXT → FINAL, o kadar.
 - FINAL LINE (MANDATORY, exactly 1 short line, max 8 words) — pick ONE by topic:
   A) COMMENT QUESTION (psychology is PERSONAL — prefer this in ~2 of 3 videos):
      one self-recognition question viewers answer instantly. Examples:
@@ -113,7 +112,8 @@ Required structure (100-130 words total (≈55-60 seconds — long Shorts for en
   ── NO hashtags, NO emojis in the script body.
 
 Constraints:
-- Total length: STRICT 100–130 words (subscribe CTA dahil). Never above 130.
+- Total length: STRICT 45–60 words (final line dahil). Never above 62.
+  🔴 KISA TUT — 4 Tem kanıtı: uzun video = düşük completion% = Shorts feed keser.
 - Very short, punchy sentences. Spoken rhythm. Contractions OK.
 - Output ONLY the spoken script text — no headings, no labels, no quotation marks
 """
@@ -141,15 +141,17 @@ def senaryo_uret(haber: dict) -> str:
     # FAZ 8: Çarşamba (DIALOG_GUN=2) — dialog formatı dene (ikili ses)
     dialog_varyant = (wd == DIALOG_GUN)
 
+    # 4 Tem KANIT (Mindgaps+TC): uzun video = düşük completion% = Shorts feed keser.
+    # 27-33sn/45-60 kelime hedef. Tüm varyantlar danger-zone altında.
     if uzun_varyant:
-        hedef_kelime = "100-115"
-        min_kelime = 95
+        hedef_kelime = "55-68"
+        min_kelime = 48
     elif dialog_varyant:
-        hedef_kelime = "70-85"
-        min_kelime = 60
+        hedef_kelime = "55-70"
+        min_kelime = 48
     else:
-        hedef_kelime = "100-130"
-        min_kelime = 90  # 60-saniye Shorts → CPM 2x + watch time +%50
+        hedef_kelime = "45-60"   # VARSAYILAN: viral-uzunluk (27-33sn)
+        min_kelime = 40
 
     temel_prompt = (
         f"Headline: {haber['baslik']}\n"
