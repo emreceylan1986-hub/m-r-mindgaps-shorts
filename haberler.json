@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-03T21:53:31.296885+00:00",
+  "uretim_zamani": "2026-07-04T14:56:16.458599+00:00",
   "haberler": [
     {
-      "baslik": "The actual reason you can't remember your dreams sometimes",
-      "url": "https://en.wikipedia.org/wiki/Dream_recall",
+      "baslik": "The 3-second rule that makes anyone trust you (It's not eye contact!)",
+      "url": "https://en.wikipedia.org/wiki/Interpersonal_attraction",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The trick to instantly make people feel comfortable around you",
-      "url": "https://en.wikipedia.org/wiki/Rapport",
+      "baslik": "Your brain creates a fake memory of falling just before you sleep",
+      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk",
       "kaynak": "gemini-fallback",
-      "skor": 990,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your brain creates a 'mental map' of conversations, making you forget details",
-      "url": "https://en.wikipedia.org/wiki/Memory_construction",
-      "kaynak": "gemini-fallback",
-      "skor": 988,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
