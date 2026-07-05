@@ -552,3 +552,15 @@
 [2026-07-05 17:32:27] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
 [2026-07-05 17:32:27] 
 === Bot bitti — 0 cevap gönderildi (toplam history: 3) ===
+[2026-07-05 19:41:59] === Bot başladı — Kanal: Mindgaps Daily (tahmini kota: 374u) ===
+[2026-07-05 19:41:59] Son 30 video taranıyor...
+[2026-07-05 19:42:00]   video x8esd7cJ yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=x8esd7cJHW4&maxResults=100&orde
+[2026-07-05 19:42:00]   video SRRupdnn yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=SRRupdnntjg&maxResults=100&orde
+[2026-07-05 19:42:01]   video kqmUzxgg yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=kqmUzxggXuI&maxResults=100&orde
+[2026-07-05 19:42:02]   video TiQ9ScdH yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=TiQ9ScdH1-Q&maxResults=100&orde
+[2026-07-05 19:42:02]   video jlFjeJh- yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=jlFjeJh-ZmI&maxResults=100&orde
+[2026-07-05 19:42:03]   video WRcQgQ47 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=WRcQgQ47Ktk&maxResults=100&orde
+[2026-07-05 19:42:04]   video xnz8g3x5 yorum çekme fail: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=xnz8g3x5rvU&maxResults=100&orde
+[2026-07-05 19:42:04] Cevaplanacak aday yorum: 0 (max 10 işlenecek)
+[2026-07-05 19:42:04] 
+=== Bot bitti — 0 cevap gönderildi (toplam history: 3) ===
