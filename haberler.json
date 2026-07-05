@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-05T18:55:24.718809+00:00",
+  "uretim_zamani": "2026-07-05T21:46:49.568568+00:00",
   "haberler": [
     {
-      "baslik": "The Real Reason You Can't Stop Overthinking (It's Your Brain's Fault)",
-      "url": "https://en.wikipedia.org/wiki/Executive_dysfunction",
+      "baslik": "The 2-Minute Rule to Stop Procrastinating Instantly",
+      "url": "https://en.wikipedia.org/wiki/Habit",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "This Is Why You Feel More Creative When You're Tired",
-      "url": "https://en.wikipedia.org/wiki/Creativity_and_sleep",
+      "baslik": "Your Brain Creates Fake Memories to Fill Gaps – Here's Why",
+      "url": "https://en.wikipedia.org/wiki/Reconstructive_memory",
       "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The Psychology Trick That Makes Anyone Trust You in 30 Seconds",
-      "url": "https://en.wikipedia.org/wiki/Social_proof",
-      "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
