@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-05T15:05:58.569488+00:00",
+  "uretim_zamani": "2026-07-05T18:55:24.718809+00:00",
   "haberler": [
     {
-      "baslik": "The 5-Second Rule That Instantly Boosts Your Focus",
-      "url": "https://en.wikipedia.org/wiki/Self-control",
+      "baslik": "The Real Reason You Can't Stop Overthinking (It's Your Brain's Fault)",
+      "url": "https://en.wikipedia.org/wiki/Executive_dysfunction",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Thinks Everything Is Urgent (The Urgency Bias)",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_bias",
+      "baslik": "This Is Why You Feel More Creative When You're Tired",
+      "url": "https://en.wikipedia.org/wiki/Creativity_and_sleep",
       "kaynak": "gemini-fallback",
       "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The Psychology Trick That Makes People Remember Your Name",
-      "url": "https://en.wikipedia.org/wiki/Memory",
+      "baslik": "The Psychology Trick That Makes Anyone Trust You in 30 Seconds",
+      "url": "https://en.wikipedia.org/wiki/Social_proof",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }

@@ -1,28 +1,28 @@
 {
-  "uretim": "2026-07-05T15:08:05+00:00",
+  "uretim": "2026-07-05T18:57:33+00:00",
   "kanal": "Mindgaps Daily",
   "abone": 1,
-  "toplam_video": 29,
-  "toplam_izlenme_yaşam_boyu": 1879,
-  "son_90g_izlenme": 1465,
-  "son_14g_izlenme": 1465,
-  "gunluk_izlenme_tahmin": 104.6,
+  "toplam_video": 31,
+  "toplam_izlenme_yaşam_boyu": 3093,
+  "son_90g_izlenme": 1512,
+  "son_14g_izlenme": 1512,
+  "gunluk_izlenme_tahmin": 108.0,
   "early_tier": {
     "abone_hedef": 500,
     "abone_yuzde": 0.2,
     "abone_kalan": 499,
     "shorts_hedef_90g": 3000000,
     "shorts_yuzde_90g": 0.05,
-    "shorts_kalan_90g": 2998535,
-    "tahmini_gun_shorts": 28655
+    "shorts_kalan_90g": 2998488,
+    "tahmini_gun_shorts": 27764
   },
   "full_tier": {
     "abone_hedef": 1000,
     "abone_yuzde": 0.1,
     "abone_kalan": 999,
     "shorts_hedef_90g": 10000000,
-    "shorts_yuzde_90g": 0.01,
-    "shorts_kalan_90g": 9998535,
-    "tahmini_gun_shorts": 95549
+    "shorts_yuzde_90g": 0.02,
+    "shorts_kalan_90g": 9998488,
+    "tahmini_gun_shorts": 92579
   }
 }
