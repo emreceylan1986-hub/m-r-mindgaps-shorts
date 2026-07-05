@@ -1,5 +1,30 @@
 {
-  "replied": {},
-  "last_run": "2026-07-04T21:14:01+00:00",
-  "last_replied_count": 0
+  "replied": {
+    "Ugz4S-w9MP-QF76jZuZ4AaABAg": {
+      "video_id": "DjydQRNKDKc",
+      "author": "@sonictheovahog",
+      "asıl_yorum": "Blaze sees my dih every day and its actually real every 10 hours",
+      "cevap": "Uhh, maybe see a doctor about that, fam.",
+      "kaynak": "gemini",
+      "ts": "2026-07-05T09:22:57+00:00"
+    },
+    "Ugz5T_9erGK4D98cgwZ4AaABAg": {
+      "video_id": "DjydQRNKDKc",
+      "author": "@robertperkins8009",
+      "asıl_yorum": "Millions of years???? Yeah... Not even close.",
+      "cevap": "You're right, pareidolia is a more recent adaptation.",
+      "kaynak": "gemini",
+      "ts": "2026-07-05T09:22:57+00:00"
+    },
+    "Ugw4eicqbzD0jncLmG94AaABAg": {
+      "video_id": "DjydQRNKDKc",
+      "author": "@LeoMartin-l9v",
+      "asıl_yorum": "Looks like a lion spitting out water",
+      "cevap": "Haha, totally! Or a very grumpy sea monster.",
+      "kaynak": "gemini",
+      "ts": "2026-07-05T09:22:57+00:00"
+    }
+  },
+  "last_run": "2026-07-05T09:22:57+00:00",
+  "last_replied_count": 3
 }
