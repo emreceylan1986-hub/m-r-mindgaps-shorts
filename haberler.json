@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-07T16:15:36.417720+00:00",
+  "uretim_zamani": "2026-07-07T19:29:38.252200+00:00",
   "haberler": [
     {
-      "baslik": "Why you feel less pain when someone holds your hand",
-      "url": "https://en.wikipedia.org/wiki/Social_support",
+      "baslik": "Why your brain makes you feel like you've forgotten something, even when you haven't",
+      "url": "https://en.wikipedia.org/wiki/Tip-of-the-tongue",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "This is why you suddenly remember something important in the shower",
+      "url": "https://en.wikipedia.org/wiki/Incubation_(psychology)",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Your brain can only truly focus on 3-5 things at once",
-      "url": "https://en.wikipedia.org/wiki/Working_memory",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your 'gut feeling' actually is (and why it's often right)",
-      "url": "https://en.wikipedia.org/wiki/Intuition",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
