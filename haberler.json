@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-06T22:05:04.224419+00:00",
+  "uretim_zamani": "2026-07-07T16:15:36.417720+00:00",
   "haberler": [
     {
-      "baslik": "The 'Brain Freeze' Trick That Instantly Kills Overthinking",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_reframing",
+      "baslik": "Why you feel less pain when someone holds your hand",
+      "url": "https://en.wikipedia.org/wiki/Social_support",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your Brain Creates False Memories to Fill Gaps – Here's Why",
-      "url": "https://en.wikipedia.org/wiki/Suggestibility",
+      "baslik": "Your brain can only truly focus on 3-5 things at once",
+      "url": "https://en.wikipedia.org/wiki/Working_memory",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What your 'gut feeling' actually is (and why it's often right)",
+      "url": "https://en.wikipedia.org/wiki/Intuition",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
