@@ -1,17 +1,9 @@
 {
-  "uretim_zamani": "2026-07-07T22:03:22.345768+00:00",
+  "uretim_zamani": "2026-07-08T15:56:32.344061+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain hides your true intentions (It's not conscious)",
-      "url": "https://en.wikipedia.org/wiki/Self-deception",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The real reason you can't stop checking for likes (Dopamine Loop)",
-      "url": "https://en.wikipedia.org/wiki/Dopamine_addiction",
+      "baslik": "The 'end-of-day' effect: Why your motivation crashes late",
+      "url": "https://en.wikipedia.org/wiki/Ego_depletion",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
