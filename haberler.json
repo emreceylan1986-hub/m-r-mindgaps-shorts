@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-07-08T15:56:32.344061+00:00",
+  "uretim_zamani": "2026-07-08T19:01:27.328317+00:00",
   "haberler": [
     {
-      "baslik": "The 'end-of-day' effect: Why your motivation crashes late",
-      "url": "https://en.wikipedia.org/wiki/Ego_depletion",
+      "baslik": "The 5-Second Rule That Instantly Makes You More Productive",
+      "url": "https://en.wikipedia.org/wiki/Procrastination",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What Your Walking Speed Reveals About Your Life Expectancy",
+      "url": "https://en.wikipedia.org/wiki/Gait",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Your Brain Confuses Sadness with Cold (and makes you want a blanket)",
+      "url": "https://en.wikipedia.org/wiki/Thermoregulation",
+      "kaynak": "gemini-fallback",
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
