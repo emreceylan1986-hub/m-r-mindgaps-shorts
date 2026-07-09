@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-07-09T16:19:09.594854+00:00",
+  "uretim_zamani": "2026-07-09T22:10:51.378618+00:00",
   "haberler": [
     {
-      "baslik": "The real reason you can't remember dreams, even vivid ones",
-      "url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+      "baslik": "This is why you remember song lyrics from 10 years ago but forget what you had for breakfast.",
+      "url": "https://en.wikipedia.org/wiki/Autobiographical_memory",
       "kaynak": "gemini-fallback",
-      "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your 'gut feeling' actually is, according to science",
-      "url": "https://en.wikipedia.org/wiki/Interoception",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why you often feel more tired AFTER a long sleep",
-      "url": "https://en.wikipedia.org/wiki/Sleep_inertia",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
