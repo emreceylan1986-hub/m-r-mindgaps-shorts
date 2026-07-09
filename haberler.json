@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-07-08T21:56:06.553808+00:00",
+  "uretim_zamani": "2026-07-09T16:19:09.594854+00:00",
   "haberler": [
     {
-      "baslik": "Your brain makes you act differently when alone. This is why.",
-      "url": "https://en.wikipedia.org/wiki/Social_facilitation",
+      "baslik": "The real reason you can't remember dreams, even vivid ones",
+      "url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
       "kaynak": "gemini-fallback",
       "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What your 'gut feeling' actually is, according to science",
+      "url": "https://en.wikipedia.org/wiki/Interoception",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you often feel more tired AFTER a long sleep",
+      "url": "https://en.wikipedia.org/wiki/Sleep_inertia",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
