@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-10T16:11:53.665112+00:00",
+  "uretim_zamani": "2026-07-10T19:12:37.913673+00:00",
   "haberler": [
     {
-      "baslik": "The 4-second silence rule that makes you look incredibly powerful",
-      "url": "https://en.wikipedia.org/wiki/Silence",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The fastest way to destroy your mind is chronic multitasking",
-      "url": "https://en.wikipedia.org/wiki/Human_multitasking",
+      "baslik": "How to Spot an Emotionally Immature Person in 10 Seconds",
+      "url": "https://en.wikipedia.org/wiki/Emotional_maturity",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "How to tell if someone is secretly hostile using the 3-second eye check",
-      "url": "https://en.wikipedia.org/wiki/Microexpression",
+      "baslik": "The Dark Psychology Trick to Instantly Command Respect in Any Room",
+      "url": "https://en.wikipedia.org/wiki/Authority_(sociology)",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "This is Why You Can't Stop Thinking About the Person Who Ignored You",
+      "url": "https://en.wikipedia.org/wiki/Reward_system",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
