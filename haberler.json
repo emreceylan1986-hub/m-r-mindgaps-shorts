@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-07-09T22:10:51.378618+00:00",
+  "uretim_zamani": "2026-07-10T16:11:53.665112+00:00",
   "haberler": [
     {
-      "baslik": "This is why you remember song lyrics from 10 years ago but forget what you had for breakfast.",
-      "url": "https://en.wikipedia.org/wiki/Autobiographical_memory",
+      "baslik": "The 4-second silence rule that makes you look incredibly powerful",
+      "url": "https://en.wikipedia.org/wiki/Silence",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The fastest way to destroy your mind is chronic multitasking",
+      "url": "https://en.wikipedia.org/wiki/Human_multitasking",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "How to tell if someone is secretly hostile using the 3-second eye check",
+      "url": "https://en.wikipedia.org/wiki/Microexpression",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
