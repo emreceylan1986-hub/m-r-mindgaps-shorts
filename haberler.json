@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-10T21:48:09.459651+00:00",
+  "uretim_zamani": "2026-07-11T14:44:07.115644+00:00",
   "haberler": [
     {
-      "baslik": "The 3-Second Silence That Makes People Reveal Their Secrets",
-      "url": "https://en.wikipedia.org/wiki/Active_listening",
+      "baslik": "The fastest way to destroy your sleep without realizing it",
+      "url": "https://en.wikipedia.org/wiki/Blue_light_hazard",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "How to Measure Your Level of Emotional Health in 3 Questions",
-      "url": "https://en.wikipedia.org/wiki/Emotional_self-regulation",
+      "baslik": "Your brain paralyzes your body every single night for safety",
+      "url": "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What your recurring nightmares are trying to tell you",
+      "url": "https://en.wikipedia.org/wiki/Nightmare",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
