@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-11T18:40:54.671048+00:00",
+  "uretim_zamani": "2026-07-11T21:38:19.412716+00:00",
   "haberler": [
     {
-      "baslik": "The real reason you hear your name in empty rooms",
-      "url": "https://en.wikipedia.org/wiki/Auditory_hallucination",
+      "baslik": "Your brain solves its hardest problems while you are dreaming",
+      "url": "https://en.wikipedia.org/wiki/Dream#Cognitive_theories",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "If you wake up at 3 AM, stop scrolling...",
-      "url": "https://en.wikipedia.org/wiki/Insomnia",
+      "baslik": "Why you suddenly twitch right as you fall asleep",
+      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 90-second rule to shut down anger instantly",
-      "url": "https://en.wikipedia.org/wiki/Refractory_period_(physiology)",
+      "baslik": "Why your brain makes you dream about falling",
+      "url": "https://en.wikipedia.org/wiki/Falling_(sensation)",
       "kaynak": "gemini-fallback",
-      "skor": 990,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
