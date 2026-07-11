@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-11T14:44:07.115644+00:00",
+  "uretim_zamani": "2026-07-11T18:40:54.671048+00:00",
   "haberler": [
     {
-      "baslik": "The fastest way to destroy your sleep without realizing it",
-      "url": "https://en.wikipedia.org/wiki/Blue_light_hazard",
+      "baslik": "The real reason you hear your name in empty rooms",
+      "url": "https://en.wikipedia.org/wiki/Auditory_hallucination",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain paralyzes your body every single night for safety",
-      "url": "https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep",
+      "baslik": "If you wake up at 3 AM, stop scrolling...",
+      "url": "https://en.wikipedia.org/wiki/Insomnia",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "What your recurring nightmares are trying to tell you",
-      "url": "https://en.wikipedia.org/wiki/Nightmare",
+      "baslik": "The 90-second rule to shut down anger instantly",
+      "url": "https://en.wikipedia.org/wiki/Refractory_period_(physiology)",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
