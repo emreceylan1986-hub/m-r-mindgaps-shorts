@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-12T18:44:39.155170+00:00",
+  "uretim_zamani": "2026-07-12T21:37:47.894384+00:00",
   "haberler": [
     {
-      "baslik": "The 20-Minute Rule to Instantly Beat Brain Fog",
-      "url": "https://en.wikipedia.org/wiki/Ultradian_rhythm",
+      "baslik": "Your brain mistakes a messy desk for a high-stress emergency",
+      "url": "https://en.wikipedia.org/wiki/Stress_management",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The fastest way to destroy your focus is checking notifications first thing",
-      "url": "https://en.wikipedia.org/wiki/Dopamine",
+      "baslik": "Your brain blocks your memory when you try too hard to remember",
+      "url": "https://en.wikipedia.org/wiki/Retrieval_induced_forgetting",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 10-Second Mental Trick to Stop Overthinking Decisions",
-      "url": "https://en.wikipedia.org/wiki/Analysis_paralysis",
+      "baslik": "Your brain enters a hypnotic state during your daily commute",
+      "url": "https://en.wikipedia.org/wiki/Highway_hypnosis",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
