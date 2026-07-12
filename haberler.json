@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-11T21:38:19.412716+00:00",
+  "uretim_zamani": "2026-07-12T14:45:57.270557+00:00",
   "haberler": [
     {
-      "baslik": "Your brain solves its hardest problems while you are dreaming",
-      "url": "https://en.wikipedia.org/wiki/Dream#Cognitive_theories",
+      "baslik": "The fastest way to destroy your focus is doing this for 10 seconds",
+      "url": "https://en.wikipedia.org/wiki/Attentional_blink",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you suddenly twitch right as you fall asleep",
-      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk",
+      "baslik": "Your brain mistakes a messy room for physical chaos (The Cortisol Loop)",
+      "url": "https://en.wikipedia.org/wiki/Stress_in_early_life",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "If you see this sign of fake listening, stop talking immediately",
+      "url": "https://en.wikipedia.org/wiki/Listening",
       "kaynak": "gemini-fallback",
       "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain makes you dream about falling",
-      "url": "https://en.wikipedia.org/wiki/Falling_(sensation)",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
