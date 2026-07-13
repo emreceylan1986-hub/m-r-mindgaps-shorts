@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-12T21:37:47.894384+00:00",
+  "uretim_zamani": "2026-07-13T16:23:14.699811+00:00",
   "haberler": [
     {
-      "baslik": "Your brain mistakes a messy desk for a high-stress emergency",
-      "url": "https://en.wikipedia.org/wiki/Stress_management",
+      "baslik": "The Fastest Way to Destroy Your Focus (And How to Reset It)",
+      "url": "https://en.wikipedia.org/wiki/Attentional_control",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain blocks your memory when you try too hard to remember",
-      "url": "https://en.wikipedia.org/wiki/Retrieval_induced_forgetting",
+      "baslik": "Are You Actually Introspective or Just Neurotic? How to Tell",
+      "url": "https://en.wikipedia.org/wiki/Neuroticism",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain enters a hypnotic state during your daily commute",
-      "url": "https://en.wikipedia.org/wiki/Highway_hypnosis",
+      "baslik": "What Your Tone of Voice Instantly Reveals About Your Confidence",
+      "url": "https://en.wikipedia.org/wiki/Nonverbal_communication",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
