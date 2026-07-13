@@ -521,12 +521,50 @@ def en_populer_3() -> list[dict]:
     return secilen[:3]
 
 
+# 11 Tem 2026 — EVERGREEN YEDEK: Gemini kotası biter + Reddit 403 olursa haberci
+# ASLA boş dönmesin (pipeline exit-1 çökme kökü). Footage-bol, niş-özel, kanıtlı konular.
+EVERGREEN_KONULAR = [
+    {"baslik": 'Your brain deletes most dreams within minutes of waking', "url": 'https://en.wikipedia.org/wiki/Dream', "ozet": 'Why you forget them so fast', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'People decide if they trust you in the first 7 seconds', "url": 'https://en.wikipedia.org/wiki/First_impression_(psychology)', "ozet": 'Snap judgments run deep', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Your brain saves important memories during deep sleep', "url": 'https://en.wikipedia.org/wiki/Memory_consolidation', "ozet": 'Sleep is when learning sticks', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'The Dunning-Kruger effect: the less you know, the more confident you feel', "url": 'https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect', "ozet": "Confidence isn't competence", "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Music gives you chills because your brain predicts the notes', "url": 'https://en.wikipedia.org/wiki/Frisson', "ozet": 'Dopamine on the drop', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Your brain fills gaps with memories that never happened', "url": 'https://en.wikipedia.org/wiki/False_memory', "ozet": 'Memory is reconstruction, not replay', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Procrastination is about managing emotions, not time', "url": 'https://en.wikipedia.org/wiki/Procrastination', "ozet": 'You avoid the feeling, not the task', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'The spotlight effect: nobody notices you as much as you think', "url": 'https://en.wikipedia.org/wiki/Spotlight_effect', "ozet": "You're your own harshest audience", "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Yawning is contagious because of empathy', "url": 'https://en.wikipedia.org/wiki/Yawn', "ozet": 'The more you bond, the more you catch it', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Your brain treats social rejection like physical pain', "url": 'https://en.wikipedia.org/wiki/Social_rejection', "ozet": 'Same regions light up', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Deja vu may be your brain checking its own memory', "url": 'https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu', "ozet": 'A glitch in recognition', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'The 21-day habit rule is a myth; it takes 66 on average', "url": 'https://en.wikipedia.org/wiki/Habit', "ozet": 'Real change takes longer', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Your pupils dilate when you look at someone you love', "url": 'https://en.wikipedia.org/wiki/Pupillary_response', "ozet": 'The eyes really do give it away', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'Multitasking lowers your IQ more than losing sleep', "url": 'https://en.wikipedia.org/wiki/Human_multitasking', "ozet": 'Your brain just switches fast', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+    {"baslik": 'The mere exposure effect: we like what feels familiar', "url": 'https://en.wikipedia.org/wiki/Mere-exposure_effect', "ozet": 'Repetition breeds preference', "kaynak": "evergreen", "skor": 900, "yas_saat": 0, "yorum_sayisi": 0},
+]
+
+
+def _evergreen_sec(adet: int = 3) -> list:
+    """Gemini+Reddit boş dönerse evergreen havuzdan geçmişte-olmayan konu seç."""
+    import random
+    try:
+        gecmis = _gecmisi_oku()
+    except Exception:
+        gecmis = set()
+    taze = [k for k in EVERGREEN_KONULAR if _normalize_url(k["url"]) not in gecmis]
+    havuz = taze if len(taze) >= adet else list(EVERGREEN_KONULAR)
+    random.shuffle(havuz)
+    return [dict(k) for k in havuz[:adet]]
+
+
 def main() -> int:
     print("[haberci] Psikoloji/zihin nişi — Reddit + Gemini fallback taranıyor...\n")
     secilenler = en_populer_3()
 
     if not secilenler:
-        print("[haberci] Hiç haber bulunamadı.")
+        print("[haberci] Gemini+Reddit boş → EVERGREEN havuzdan seçiliyor (pipeline korunur)", flush=True)
+        secilenler = _evergreen_sec(3)
+
+    if not secilenler:
+        print("[haberci] Hiç haber bulunamadı (evergreen de boş?!).")
         return 1
 
     cikti = {
