@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-14T15:20:16.957542+00:00",
+  "uretim_zamani": "2026-07-14T18:56:49.898789+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain craves checking your phone when you are bored",
-      "url": "https://en.wikipedia.org/wiki/Boredom",
+      "baslik": "The fastest way to destroy your dopamine levels without realizing it",
+      "url": "https://en.wikipedia.org/wiki/Dopamine_deficit_state",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you buy things you don't need when you are stressed",
-      "url": "https://en.wikipedia.org/wiki/Retail_therapy",
+      "baslik": "Why you instantly check your reflection in every single window you pass",
+      "url": "https://en.wikipedia.org/wiki/Self-awareness",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you buy things you don't need when you are shopping alone",
+      "url": "https://en.wikipedia.org/wiki/Impulse_purchase",
       "kaynak": "gemini-fallback",
       "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why you can't make decisions when you are hungry",
-      "url": "https://en.wikipedia.org/wiki/Hunger_(motivational_state)",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
