@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-13T21:42:34.557765+00:00",
+  "uretim_zamani": "2026-07-14T15:20:16.957542+00:00",
   "haberler": [
     {
-      "baslik": "The Fastest Way to Destroy Your Focus (Without Realizing It)",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_overload",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "How to Tell the Difference Between Intuition and Anxiety",
-      "url": "https://en.wikipedia.org/wiki/Somatic_marker_hypothesis",
+      "baslik": "Why your brain craves checking your phone when you are bored",
+      "url": "https://en.wikipedia.org/wiki/Boredom",
       "kaynak": "gemini-fallback",
       "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-Second Trick That Tells If Someone is Secretly Watching You",
-      "url": "https://en.wikipedia.org/wiki/Gaze_detection",
+      "baslik": "Why you buy things you don't need when you are stressed",
+      "url": "https://en.wikipedia.org/wiki/Retail_therapy",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you can't make decisions when you are hungry",
+      "url": "https://en.wikipedia.org/wiki/Hunger_(motivational_state)",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
