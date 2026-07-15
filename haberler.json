@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-15T15:19:57.629352+00:00",
+  "uretim_zamani": "2026-07-15T18:52:09.555083+00:00",
   "haberler": [
     {
-      "baslik": "The fastest way to destroy your mind is chronic multitasking",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_load",
+      "baslik": "Why you instantly hate the sound of your own recorded voice",
+      "url": "https://en.wikipedia.org/wiki/Bone_conduction",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What your reaction to a slow walker reveals about your nervous system",
+      "url": "https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_hypothesis",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your phone notifications volume reveals about your stress levels",
-      "url": "https://en.wikipedia.org/wiki/Arousal",
-      "kaynak": "gemini-fallback",
-      "skor": 993,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your desk organization style reveals about your cognitive traits",
-      "url": "https://en.wikipedia.org/wiki/Conscientiousness",
-      "kaynak": "gemini-fallback",
-      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
