@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-14T21:51:19.062476+00:00",
+  "uretim_zamani": "2026-07-15T15:19:57.629352+00:00",
   "haberler": [
     {
-      "baslik": "The fastest way to destroy your focus is checking notifications first thing",
-      "url": "https://en.wikipedia.org/wiki/Dopamine",
+      "baslik": "The fastest way to destroy your mind is chronic multitasking",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_load",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "This is why you can't stop checking your ex's social media",
-      "url": "https://en.wikipedia.org/wiki/Intermittent_reinforcement",
+      "baslik": "What your phone notifications volume reveals about your stress levels",
+      "url": "https://en.wikipedia.org/wiki/Arousal",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you automatically agree with people when you're tired",
-      "url": "https://en.wikipedia.org/wiki/Decision_fatigue",
+      "baslik": "What your desk organization style reveals about your cognitive traits",
+      "url": "https://en.wikipedia.org/wiki/Conscientiousness",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
