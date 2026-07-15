@@ -1,17 +1,9 @@
 {
-  "uretim_zamani": "2026-07-15T18:52:09.555083+00:00",
+  "uretim_zamani": "2026-07-15T21:45:33.375713+00:00",
   "haberler": [
     {
-      "baslik": "Why you instantly hate the sound of your own recorded voice",
-      "url": "https://en.wikipedia.org/wiki/Bone_conduction",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your reaction to a slow walker reveals about your nervous system",
-      "url": "https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_hypothesis",
+      "baslik": "What your reaction to being late reveals about you",
+      "url": "https://en.wikipedia.org/wiki/Locus_of_control",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
