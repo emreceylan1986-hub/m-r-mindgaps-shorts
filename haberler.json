@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-13T21:42:34.557765+00:00",
+  "uretim_zamani": "2026-07-14T21:51:19.062476+00:00",
   "haberler": [
     {
-      "baslik": "The Fastest Way to Destroy Your Focus (Without Realizing It)",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_overload",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "How to Tell the Difference Between Intuition and Anxiety",
-      "url": "https://en.wikipedia.org/wiki/Somatic_marker_hypothesis",
+      "baslik": "The fastest way to destroy your focus is checking notifications first thing",
+      "url": "https://en.wikipedia.org/wiki/Dopamine",
       "kaynak": "gemini-fallback",
       "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-Second Trick That Tells If Someone is Secretly Watching You",
-      "url": "https://en.wikipedia.org/wiki/Gaze_detection",
+      "baslik": "This is why you can't stop checking your ex's social media",
+      "url": "https://en.wikipedia.org/wiki/Intermittent_reinforcement",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you automatically agree with people when you're tired",
+      "url": "https://en.wikipedia.org/wiki/Decision_fatigue",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
