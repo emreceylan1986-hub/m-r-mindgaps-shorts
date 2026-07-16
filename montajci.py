@@ -48,40 +48,39 @@ FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 # force_style GEREKMİYOR — ASS kendi [V4+ Styles] bloğunu taşır.
 
 KEYWORD_SISTEM_PROMPTU = """You output ONLY a JSON array of exactly 3 short
-visual stock-footage search queries (1–4 English words each) for a viral
-YouTube Short in the ANIMAL / NATURE / AMAZING-FACTS niche, IN NARRATIVE ORDER.
+visual stock-footage search queries (1-4 English words each) for a viral
+YouTube Short in the PSYCHOLOGY / HUMAN-MIND niche (channel: Mindgaps),
+IN NARRATIVE ORDER.
 
-═══ HARD RULE — SUBJECT FIDELITY ═══
-The script names a SPECIFIC subject (a species, place, or phenomenon). Identify
-the PRIMARY SUBJECT and put it in ALL THREE queries.
+(16 Tem 2026 REWRITE: this prompt was a leftover ANIMAL-niche template. It made
+Pexels return absurd/disturbing clips for psychology scripts — a snake on a
+woman's face for "automatic syncing", a sick child in hospital for "boundary
+violation" — and retention died at 22-40%. Proof: the channel's BEST-retention
+video (54%) was a bright everyday street scene of people walking.)
 
-- Query 1 MUST be the EXACT subject name (most specific form).
-  • If species: common name + "closeup" or "footage" (e.g. "oarfish closeup",
-    "tardigrade microscope", "mantis shrimp footage")
-  • If place: place name + descriptor (e.g. "Lake Hillier pink", "Salar Uyuni")
-  • If phenomenon: phenomenon name (e.g. "bioluminescence ocean",
-    "northern lights aurora")
-- Query 2 = supporting visual still tied to the subject (habitat, scale,
-  behavior, prey). NOT generic. Example for oarfish: "deep sea silver fish",
-  NOT "deep ocean".
-- Query 3 = atmosphere/context that PAIRS with the subject. Slightly broader
-  is okay but must still relate (e.g. "deep sea darkness" for oarfish, NOT
-  "blue sky"). For broader nature stories use the biome of the species.
+RULE #1 — PSYCHOLOGY IS ABSTRACT, SO QUERIES MUST BE HUMAN MOMENTS.
+Never search the concept word itself (no "cognitive bias footage"). Instead
+translate the concept into a RELATABLE, BRIGHT, everyday HUMAN scene that
+FEELS like the concept:
+  - procrastination -> "person scrolling phone bed"
+  - social anxiety  -> "person alone party crowd"
+  - trust/first impressions -> "two people handshake smiling"
+  - memory/dreams   -> "person sleeping peaceful morning"
+  - focus/habit     -> "person writing journal coffee"
+- Query 1 = the core human moment of the script's MAIN concept (person + action).
+- Query 2 = a second human moment showing the concept's EFFECT or contrast.
+- Query 3 = slightly broader mood scene that still shows PEOPLE (city walk,
+  cafe, friends talking). People beat objects; faces beat scenery.
 
-NEVER use a generic biome (just "ocean", "forest", "sky") as Query 1. The
-viewer KNOWS what you said the subject is — if your footage doesn't show it,
-they call it out and trust dies.
+RULE #2 — HARD BANS (retention killers, proven on this channel):
+- NO medical/hospital/sick imagery, NO children in distress
+- NO animals (snakes, insects...) — wrong niche, disturbing out of context
+- NO horror/shock/dark imagery, NO crying closeups
+- NO offices with suits/logos/whiteboards, NO abstract data/brains/neurons
+- Prefer DAYLIGHT and warm scenes over dark/gloomy ones.
 
-If the subject is so rare that no stock footage will exist (e.g. extinct
-species, deep-sea anomalies), use the common name + "illustration" or
-"animation" so we get artwork instead of unrelated stock.
-
-═══ STYLE ═══
-- Close-ups beat wide shots. Faces beat scenery. Motion beats stills.
-- Avoid: people in offices, logos, abstract data, empty rooms, brand shots.
-
-Format example for an oarfish video:
-["oarfish footage", "deep sea silver fish", "ocean depths darkness"]
+Format example for a procrastination video:
+["person scrolling phone bed", "person closing laptop relieved", "morning city walk people"]
 """
 
 
