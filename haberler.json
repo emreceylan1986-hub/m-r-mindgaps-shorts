@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-16T21:53:17.089810+00:00",
+  "uretim_zamani": "2026-07-16T22:50:44.107980+00:00",
   "haberler": [
     {
-      "baslik": "The 'Closing Time' Effect: Why You Find People More Attractive as the Night Ends",
-      "url": "https://en.wikipedia.org/wiki/Closing-time_phenomenon",
+      "baslik": "The 3-Second Pause Trick That Makes You Instantly More Charismatic",
+      "url": "https://en.wikipedia.org/wiki/Charisma",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Mistakes Curiosity for Romantic Interest — Here's How to Tell",
-      "url": "https://en.wikipedia.org/wiki/Curiosity",
+      "baslik": "Why Your Brain Mistakes Jealousy for Intense Love",
+      "url": "https://en.wikipedia.org/wiki/Jealousy",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why You Experience the Urgent Need to Protect the People You Love",
+      "url": "https://en.wikipedia.org/wiki/Oxytocin",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
