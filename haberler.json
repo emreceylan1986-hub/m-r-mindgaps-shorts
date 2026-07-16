@@ -1,11 +1,19 @@
 {
-  "uretim_zamani": "2026-07-15T21:45:33.375713+00:00",
+  "uretim_zamani": "2026-07-16T15:24:07.928896+00:00",
   "haberler": [
     {
-      "baslik": "What your reaction to being late reveals about you",
-      "url": "https://en.wikipedia.org/wiki/Locus_of_control",
+      "baslik": "Why Your Brain Confuses Anxiety with Attraction in a New Relationship",
+      "url": "https://en.wikipedia.org/wiki/Excitation_transfer_theory",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 1000,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your Brain Mistakes Silence for Disapproval — Here’s Why You Overthink",
+      "url": "https://en.wikipedia.org/wiki/Ambiguity_effect",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
