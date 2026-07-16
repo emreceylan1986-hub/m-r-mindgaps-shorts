@@ -1,19 +1,19 @@
 {
-  "uretim_zamani": "2026-07-16T15:24:07.928896+00:00",
+  "uretim_zamani": "2026-07-16T19:40:13.669387+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Confuses Anxiety with Attraction in a New Relationship",
-      "url": "https://en.wikipedia.org/wiki/Excitation_transfer_theory",
+      "baslik": "Why You Want to Run Away From a Good Relationship",
+      "url": "https://en.wikipedia.org/wiki/Attachment_theory",
       "kaynak": "gemini-fallback",
-      "skor": 1000,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your Brain Mistakes Silence for Disapproval — Here’s Why You Overthink",
-      "url": "https://en.wikipedia.org/wiki/Ambiguity_effect",
+      "baslik": "The Capacity to Give Up on People (The Psychology of Letting Go)",
+      "url": "https://en.wikipedia.org/wiki/Boundary_(cognitive_science)",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 986,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
