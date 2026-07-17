@@ -1,17 +1,17 @@
 {
-  "uretim_zamani": "2026-07-17T15:04:39.824073+00:00",
+  "uretim_zamani": "2026-07-17T18:48:29.460670+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain confuses Tiredness with Sadness every evening",
-      "url": "https://en.wikipedia.org/wiki/Fatigue_(medical)",
+      "baslik": "The Foot-in-the-Door Technique: How People Manipulate You Into Saying Yes",
+      "url": "https://en.wikipedia.org/wiki/Foot-in-the-door_technique",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 'Door-in-the-Face' trick that makes anyone say yes to you",
-      "url": "https://en.wikipedia.org/wiki/Door-in-the-face_technique",
+      "baslik": "Why Your Brain Fears Change More Than Physical Danger",
+      "url": "https://en.wikipedia.org/wiki/Status_quo_bias",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
