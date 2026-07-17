@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-17T18:48:29.460670+00:00",
+  "uretim_zamani": "2026-07-17T21:39:32.642544+00:00",
   "haberler": [
     {
-      "baslik": "The Foot-in-the-Door Technique: How People Manipulate You Into Saying Yes",
-      "url": "https://en.wikipedia.org/wiki/Foot-in-the-door_technique",
+      "baslik": "Why Your Brain Mistakes Low Self-Esteem for Love (The Scarcity Trap)",
+      "url": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Fears Change More Than Physical Danger",
-      "url": "https://en.wikipedia.org/wiki/Status_quo_bias",
+      "baslik": "The 1-Second Glance That Instantly Signals Social Dominance",
+      "url": "https://en.wikipedia.org/wiki/Visual_dominance_behavior",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why You Unconsciously Believe Physically Attractive People Are Better Human Beings",
+      "url": "https://en.wikipedia.org/wiki/Halo_effect",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
