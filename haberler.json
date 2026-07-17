@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-16T22:50:44.107980+00:00",
+  "uretim_zamani": "2026-07-17T15:04:39.824073+00:00",
   "haberler": [
     {
-      "baslik": "The 3-Second Pause Trick That Makes You Instantly More Charismatic",
-      "url": "https://en.wikipedia.org/wiki/Charisma",
+      "baslik": "Why your brain confuses Tiredness with Sadness every evening",
+      "url": "https://en.wikipedia.org/wiki/Fatigue_(medical)",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Mistakes Jealousy for Intense Love",
-      "url": "https://en.wikipedia.org/wiki/Jealousy",
+      "baslik": "The 'Door-in-the-Face' trick that makes anyone say yes to you",
+      "url": "https://en.wikipedia.org/wiki/Door-in-the-face_technique",
       "kaynak": "gemini-fallback",
-      "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Experience the Urgent Need to Protect the People You Love",
-      "url": "https://en.wikipedia.org/wiki/Oxytocin",
-      "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
