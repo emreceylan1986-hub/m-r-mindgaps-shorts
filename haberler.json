@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-18T14:43:52.880329+00:00",
+  "uretim_zamani": "2026-07-18T18:42:01.611290+00:00",
   "haberler": [
     {
-      "baslik": "Your brain paralyzes your body to keep you safe",
-      "url": "https://en.wikipedia.org/wiki/Muscle_atonia",
+      "baslik": "The 10-second posture change that lowers your stress hormone",
+      "url": "https://en.wikipedia.org/wiki/Cortisol",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Confuses High Anxiety with High Competence",
-      "url": "https://en.wikipedia.org/wiki/Overconfidence_effect",
+      "baslik": "The psychological trick to win any argument without raising your voice",
+      "url": "https://en.wikipedia.org/wiki/De-escalation",
       "kaynak": "gemini-fallback",
-      "skor": 991,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain chemically blocks your muscles when you dream",
-      "url": "https://en.wikipedia.org/wiki/Glycine",
+      "baslik": "Why you suddenly feel sad when you smell a childhood scent",
+      "url": "https://en.wikipedia.org/wiki/Proust_phenomenon",
       "kaynak": "gemini-fallback",
-      "skor": 990,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
