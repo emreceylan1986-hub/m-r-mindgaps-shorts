@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-17T21:39:32.642544+00:00",
+  "uretim_zamani": "2026-07-18T14:43:52.880329+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Mistakes Low Self-Esteem for Love (The Scarcity Trap)",
-      "url": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 1-Second Glance That Instantly Signals Social Dominance",
-      "url": "https://en.wikipedia.org/wiki/Visual_dominance_behavior",
+      "baslik": "Your brain paralyzes your body to keep you safe",
+      "url": "https://en.wikipedia.org/wiki/Muscle_atonia",
       "kaynak": "gemini-fallback",
       "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Unconsciously Believe Physically Attractive People Are Better Human Beings",
-      "url": "https://en.wikipedia.org/wiki/Halo_effect",
+      "baslik": "Why Your Brain Confuses High Anxiety with High Competence",
+      "url": "https://en.wikipedia.org/wiki/Overconfidence_effect",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 991,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your brain chemically blocks your muscles when you dream",
+      "url": "https://en.wikipedia.org/wiki/Glycine",
+      "kaynak": "gemini-fallback",
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
