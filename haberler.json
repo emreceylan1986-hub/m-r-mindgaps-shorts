@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-18T18:42:01.611290+00:00",
+  "uretim_zamani": "2026-07-18T21:38:23.992779+00:00",
   "haberler": [
     {
-      "baslik": "The 10-second posture change that lowers your stress hormone",
-      "url": "https://en.wikipedia.org/wiki/Cortisol",
+      "baslik": "The real reason you feel like you are falling right before sleep",
+      "url": "https://en.wikipedia.org/wiki/Myoclonus",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The psychological trick to win any argument without raising your voice",
-      "url": "https://en.wikipedia.org/wiki/De-escalation",
-      "kaynak": "gemini-fallback",
-      "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why you suddenly feel sad when you smell a childhood scent",
-      "url": "https://en.wikipedia.org/wiki/Proust_phenomenon",
+      "baslik": "Your brain rehearses difficult real-life situations while you dream",
+      "url": "https://en.wikipedia.org/wiki/Threat_simulation_theory",
       "kaynak": "gemini-fallback",
       "skor": 995,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 10-minute rule that tricks your brain into falling asleep",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_shuffling",
+      "kaynak": "gemini-fallback",
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
