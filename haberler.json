@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-19T18:44:21.808602+00:00",
+  "uretim_zamani": "2026-07-19T21:39:22.142251+00:00",
   "haberler": [
     {
-      "baslik": "This Is Not Confidence: Why Your Brain Mistakes Loudness for Authority",
-      "url": "https://en.wikipedia.org/wiki/Social_influence",
+      "baslik": "Why you instantly forget why you walked into a room",
+      "url": "https://en.wikipedia.org/wiki/Doorway_effect",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "How to Fix Your Brain's Habit of Overestimating Tomorrow's Free Time",
-      "url": "https://en.wikipedia.org/wiki/Planning_fallacy",
+      "baslik": "Why your brain believes a lie if you hear it often enough",
+      "url": "https://en.wikipedia.org/wiki/Illusory_truth_effect",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Mistakes Sugar Cravings for Dehydration",
-      "url": "https://en.wikipedia.org/wiki/Homeostasis",
+      "baslik": "Why your brain can't stand silence and forces you to think",
+      "url": "https://en.wikipedia.org/wiki/Default_mode_network",
       "kaynak": "gemini-fallback",
-      "skor": 993,
+      "skor": 991,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
