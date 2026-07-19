@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-19T14:45:16.179359+00:00",
+  "uretim_zamani": "2026-07-19T18:44:21.808602+00:00",
   "haberler": [
     {
-      "baslik": "The Capacity to Give up on People: Why highly empathetic brains suddenly go cold",
-      "url": "https://en.wikipedia.org/wiki/Compassion_fatigue",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Want to Run Away From a Good Relationship (The fear of intimacy)",
-      "url": "https://en.wikipedia.org/wiki/Fear_of_intimacy",
+      "baslik": "This Is Not Confidence: Why Your Brain Mistakes Loudness for Authority",
+      "url": "https://en.wikipedia.org/wiki/Social_influence",
       "kaynak": "gemini-fallback",
       "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses caffeine jitters with anxiety",
-      "url": "https://en.wikipedia.org/wiki/Anxiogenic",
+      "baslik": "How to Fix Your Brain's Habit of Overestimating Tomorrow's Free Time",
+      "url": "https://en.wikipedia.org/wiki/Planning_fallacy",
       "kaynak": "gemini-fallback",
       "skor": 994,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Your Brain Mistakes Sugar Cravings for Dehydration",
+      "url": "https://en.wikipedia.org/wiki/Homeostasis",
+      "kaynak": "gemini-fallback",
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
