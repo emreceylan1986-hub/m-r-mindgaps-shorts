@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-17T21:39:32.642544+00:00",
+  "uretim_zamani": "2026-07-18T21:38:23.992779+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Mistakes Low Self-Esteem for Love (The Scarcity Trap)",
-      "url": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 1-Second Glance That Instantly Signals Social Dominance",
-      "url": "https://en.wikipedia.org/wiki/Visual_dominance_behavior",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Unconsciously Believe Physically Attractive People Are Better Human Beings",
-      "url": "https://en.wikipedia.org/wiki/Halo_effect",
+      "baslik": "The real reason you feel like you are falling right before sleep",
+      "url": "https://en.wikipedia.org/wiki/Myoclonus",
       "kaynak": "gemini-fallback",
       "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Your brain rehearses difficult real-life situations while you dream",
+      "url": "https://en.wikipedia.org/wiki/Threat_simulation_theory",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 10-minute rule that tricks your brain into falling asleep",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_shuffling",
+      "kaynak": "gemini-fallback",
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
