@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-18T21:38:23.992779+00:00",
+  "uretim_zamani": "2026-07-19T14:45:16.179359+00:00",
   "haberler": [
     {
-      "baslik": "The real reason you feel like you are falling right before sleep",
-      "url": "https://en.wikipedia.org/wiki/Myoclonus",
+      "baslik": "The Capacity to Give up on People: Why highly empathetic brains suddenly go cold",
+      "url": "https://en.wikipedia.org/wiki/Compassion_fatigue",
       "kaynak": "gemini-fallback",
       "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain rehearses difficult real-life situations while you dream",
-      "url": "https://en.wikipedia.org/wiki/Threat_simulation_theory",
+      "baslik": "Why You Want to Run Away From a Good Relationship (The fear of intimacy)",
+      "url": "https://en.wikipedia.org/wiki/Fear_of_intimacy",
       "kaynak": "gemini-fallback",
       "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 10-minute rule that tricks your brain into falling asleep",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_shuffling",
+      "baslik": "Why your brain confuses caffeine jitters with anxiety",
+      "url": "https://en.wikipedia.org/wiki/Anxiogenic",
       "kaynak": "gemini-fallback",
-      "skor": 993,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
