@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-20T19:20:19.408648+00:00",
+  "uretim_zamani": "2026-07-20T21:54:43.342411+00:00",
   "haberler": [
     {
-      "baslik": "The psychological reason why you feel 'invisible' in large crowds",
-      "url": "https://en.wikipedia.org/wiki/Bystander_effect",
+      "baslik": "Why Your Brain Remembers Unfinished Tasks but Forgets Completed Ones",
+      "url": "https://en.wikipedia.org/wiki/Ovsiankina_effect",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses high-pressure challenges with genuine danger",
-      "url": "https://en.wikipedia.org/wiki/Fight-or-flight_response",
+      "baslik": "The 5-Second Visual Trick That Instantly Calms Your Nervous System",
+      "url": "https://en.wikipedia.org/wiki/Optokinetic_reflex",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 994,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why You Confuse High Anxiety with Intuition",
+      "url": "https://en.wikipedia.org/wiki/Hypervigilance",
+      "kaynak": "gemini-fallback",
+      "skor": 991,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
