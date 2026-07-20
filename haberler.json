@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-19T21:39:22.142251+00:00",
+  "uretim_zamani": "2026-07-20T15:43:42.164078+00:00",
   "haberler": [
     {
-      "baslik": "Why you instantly forget why you walked into a room",
-      "url": "https://en.wikipedia.org/wiki/Doorway_effect",
+      "baslik": "Why Your Brain Confuses Tiredness with Sadness Every Evening",
+      "url": "https://en.wikipedia.org/wiki/Emotional_exhaustion",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 1000,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain believes a lie if you hear it often enough",
-      "url": "https://en.wikipedia.org/wiki/Illusory_truth_effect",
+      "baslik": "Your brain confuses virtual safety with real loneliness",
+      "url": "https://en.wikipedia.org/wiki/Parasocial_interaction",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain can't stand silence and forces you to think",
-      "url": "https://en.wikipedia.org/wiki/Default_mode_network",
+      "baslik": "Why your brain gets a sudden burst of energy right before bed",
+      "url": "https://en.wikipedia.org/wiki/Delayed_sleep_phase_syndrome",
       "kaynak": "gemini-fallback",
-      "skor": 991,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
