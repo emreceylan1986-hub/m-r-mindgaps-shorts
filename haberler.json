@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-21T19:03:48.840933+00:00",
+  "uretim_zamani": "2026-07-21T21:51:36.193678+00:00",
   "haberler": [
     {
-      "baslik": "Why you suddenly hate the song you set as your alarm",
-      "url": "https://en.wikipedia.org/wiki/Classical_conditioning",
+      "baslik": "Why your brain makes you check the fridge when you aren't even hungry",
+      "url": "https://en.wikipedia.org/wiki/Displacement_activity",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 1-second rule to stop someone from interrupting you",
-      "url": "https://en.wikipedia.org/wiki/Turn-taking",
+      "baslik": "Why you suddenly want to buy things you don't need when you are stressed",
+      "url": "https://en.wikipedia.org/wiki/Compulsive_buying_disorder",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 2-second trick that makes people listen to your every word",
+      "url": "https://en.wikipedia.org/wiki/Intonation_(linguistics)",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
