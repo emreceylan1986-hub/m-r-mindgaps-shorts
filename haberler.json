@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-20T21:54:43.342411+00:00",
+  "uretim_zamani": "2026-07-21T15:28:38.276806+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Remembers Unfinished Tasks but Forgets Completed Ones",
-      "url": "https://en.wikipedia.org/wiki/Ovsiankina_effect",
+      "baslik": "The 'IKEA Effect': Why You Overvalue Everything You Build Yourself",
+      "url": "https://en.wikipedia.org/wiki/IKEA_effect",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 5-Second Visual Trick That Instantly Calms Your Nervous System",
-      "url": "https://en.wikipedia.org/wiki/Optokinetic_reflex",
+      "baslik": "Why Your Brain Mistakes Novelty for Importance Every Single Day",
+      "url": "https://en.wikipedia.org/wiki/Novelty_seeking",
       "kaynak": "gemini-fallback",
-      "skor": 994,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Confuse High Anxiety with Intuition",
-      "url": "https://en.wikipedia.org/wiki/Hypervigilance",
-      "kaynak": "gemini-fallback",
-      "skor": 991,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
