@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-22T18:56:30.710288+00:00",
+  "uretim_zamani": "2026-07-22T21:54:35.785646+00:00",
   "haberler": [
     {
-      "baslik": "What your handwriting reveals about your personality",
-      "url": "https://en.wikipedia.org/wiki/Graphology",
+      "baslik": "What your walking speed reveals about your personality",
+      "url": "https://en.wikipedia.org/wiki/Walking_speed",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 3-second eye contact rule that makes people trust you",
-      "url": "https://en.wikipedia.org/wiki/Eye_contact",
+      "baslik": "The psychological reason you hate the sound of your own chewing",
+      "url": "https://en.wikipedia.org/wiki/Misophonia",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "What your walking speed reveals about your brain health",
-      "url": "https://en.wikipedia.org/wiki/Gait_analysis",
+      "baslik": "Why your brain craves sugar when you are emotionally exhausted",
+      "url": "https://en.wikipedia.org/wiki/Emotional_eating",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
