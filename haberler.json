@@ -1,27 +1,30 @@
 {
-  "uretim_zamani": "2026-07-21T21:51:36.193678+00:00",
+  "uretim_zamani": "2026-07-22T15:26:34.848480+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain makes you check the fridge when you aren't even hungry",
-      "url": "https://en.wikipedia.org/wiki/Displacement_activity",
-      "kaynak": "gemini-fallback",
-      "skor": 998,
+      "baslik": "Your brain treats social rejection like physical pain",
+      "url": "https://en.wikipedia.org/wiki/Social_rejection",
+      "ozet": "Same regions light up",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you suddenly want to buy things you don't need when you are stressed",
-      "url": "https://en.wikipedia.org/wiki/Compulsive_buying_disorder",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
+      "baslik": "Your pupils dilate when you look at someone you love",
+      "url": "https://en.wikipedia.org/wiki/Pupillary_response",
+      "ozet": "The eyes really do give it away",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-second trick that makes people listen to your every word",
-      "url": "https://en.wikipedia.org/wiki/Intonation_(linguistics)",
-      "kaynak": "gemini-fallback",
-      "skor": 995,
+      "baslik": "Yawning is contagious because of empathy",
+      "url": "https://en.wikipedia.org/wiki/Yawn",
+      "ozet": "The more you bond, the more you catch it",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
