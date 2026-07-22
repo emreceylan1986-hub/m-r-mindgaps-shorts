@@ -1,30 +1,27 @@
 {
-  "uretim_zamani": "2026-07-22T15:26:34.848480+00:00",
+  "uretim_zamani": "2026-07-22T18:56:30.710288+00:00",
   "haberler": [
     {
-      "baslik": "Your brain treats social rejection like physical pain",
-      "url": "https://en.wikipedia.org/wiki/Social_rejection",
-      "ozet": "Same regions light up",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "What your handwriting reveals about your personality",
+      "url": "https://en.wikipedia.org/wiki/Graphology",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your pupils dilate when you look at someone you love",
-      "url": "https://en.wikipedia.org/wiki/Pupillary_response",
-      "ozet": "The eyes really do give it away",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "The 3-second eye contact rule that makes people trust you",
+      "url": "https://en.wikipedia.org/wiki/Eye_contact",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Yawning is contagious because of empathy",
-      "url": "https://en.wikipedia.org/wiki/Yawn",
-      "ozet": "The more you bond, the more you catch it",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "What your walking speed reveals about your brain health",
+      "url": "https://en.wikipedia.org/wiki/Gait_analysis",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
