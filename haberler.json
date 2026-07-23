@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-23T18:59:26.029778+00:00",
+  "uretim_zamani": "2026-07-23T21:53:26.628369+00:00",
   "haberler": [
     {
-      "baslik": "The Psychology Trick to Make People Agree with You",
-      "url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+      "baslik": "Why You Instantly Dislike People Who Look Like Your Ex",
+      "url": "https://en.wikipedia.org/wiki/Transference",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 10-Second Silence Trick That Makes Anyone Tell the Truth",
+      "url": "https://en.wikipedia.org/wiki/Deception_detection",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why You Text Your Ex the Second You Drink Alcohol",
+      "url": "https://en.wikipedia.org/wiki/Alcohol_and_decision-making",
       "kaynak": "gemini-fallback",
       "skor": 994,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Cry When You're Actually Angry",
-      "url": "https://en.wikipedia.org/wiki/Crying",
-      "kaynak": "gemini-fallback",
-      "skor": 993,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What Your WhatsApp Reply Time Reveals About You",
-      "url": "https://en.wikipedia.org/wiki/Attachment_in_adults",
-      "kaynak": "gemini-fallback",
-      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
