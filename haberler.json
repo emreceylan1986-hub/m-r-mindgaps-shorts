@@ -1,27 +1,30 @@
 {
-  "uretim_zamani": "2026-07-22T21:54:35.785646+00:00",
+  "uretim_zamani": "2026-07-23T15:48:18.206772+00:00",
   "haberler": [
     {
-      "baslik": "What your walking speed reveals about your personality",
-      "url": "https://en.wikipedia.org/wiki/Walking_speed",
-      "kaynak": "gemini-fallback",
-      "skor": 999,
+      "baslik": "Deja vu may be your brain checking its own memory",
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu",
+      "ozet": "A glitch in recognition",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The psychological reason you hate the sound of your own chewing",
-      "url": "https://en.wikipedia.org/wiki/Misophonia",
-      "kaynak": "gemini-fallback",
-      "skor": 998,
+      "baslik": "The Dunning-Kruger effect: the less you know, the more confident you feel",
+      "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+      "ozet": "Confidence isn't competence",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain craves sugar when you are emotionally exhausted",
-      "url": "https://en.wikipedia.org/wiki/Emotional_eating",
-      "kaynak": "gemini-fallback",
-      "skor": 995,
+      "baslik": "People decide if they trust you in the first 7 seconds",
+      "url": "https://en.wikipedia.org/wiki/First_impression_(psychology)",
+      "ozet": "Snap judgments run deep",
+      "kaynak": "evergreen",
+      "skor": 900,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
