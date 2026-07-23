@@ -1,30 +1,27 @@
 {
-  "uretim_zamani": "2026-07-23T15:48:18.206772+00:00",
+  "uretim_zamani": "2026-07-23T18:59:26.029778+00:00",
   "haberler": [
     {
-      "baslik": "Deja vu may be your brain checking its own memory",
-      "url": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu",
-      "ozet": "A glitch in recognition",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "The Psychology Trick to Make People Agree with You",
+      "url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The Dunning-Kruger effect: the less you know, the more confident you feel",
-      "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
-      "ozet": "Confidence isn't competence",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "Why You Cry When You're Actually Angry",
+      "url": "https://en.wikipedia.org/wiki/Crying",
+      "kaynak": "gemini-fallback",
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "People decide if they trust you in the first 7 seconds",
-      "url": "https://en.wikipedia.org/wiki/First_impression_(psychology)",
-      "ozet": "Snap judgments run deep",
-      "kaynak": "evergreen",
-      "skor": 900,
+      "baslik": "What Your WhatsApp Reply Time Reveals About You",
+      "url": "https://en.wikipedia.org/wiki/Attachment_in_adults",
+      "kaynak": "gemini-fallback",
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
