@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-07-23T21:53:26.628369+00:00",
+  "uretim_zamani": "2026-07-24T15:19:55.982240+00:00",
   "haberler": [
     {
-      "baslik": "Why You Instantly Dislike People Who Look Like Your Ex",
-      "url": "https://en.wikipedia.org/wiki/Transference",
+      "baslik": "Why Your Brain Confuses Fear with Excitement Before Public Speaking",
+      "url": "https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion",
       "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 10-Second Silence Trick That Makes Anyone Tell the Truth",
-      "url": "https://en.wikipedia.org/wiki/Deception_detection",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Text Your Ex the Second You Drink Alcohol",
-      "url": "https://en.wikipedia.org/wiki/Alcohol_and_decision-making",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
