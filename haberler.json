@@ -1,11 +1,27 @@
 {
-  "uretim_zamani": "2026-07-24T19:07:53.259275+00:00",
+  "uretim_zamani": "2026-07-24T21:52:26.976798+00:00",
   "haberler": [
     {
-      "baslik": "The Dark Psychology Trick That Makes People Reveal Secrets Instantly",
-      "url": "https://en.wikipedia.org/wiki/Elicitation",
+      "baslik": "Why your brain mistakes silence for a threat (The Dark Psychology of No-Contact)",
+      "url": "https://en.wikipedia.org/wiki/Silent_treatment",
+      "kaynak": "gemini-fallback",
+      "skor": 1000,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 2-second eye contact trick that makes people do what you want",
+      "url": "https://en.wikipedia.org/wiki/Eye_gaze",
       "kaynak": "gemini-fallback",
       "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why your brain confuses low self-esteem with being 'too nice' to people",
+      "url": "https://en.wikipedia.org/wiki/People-pleasing",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
