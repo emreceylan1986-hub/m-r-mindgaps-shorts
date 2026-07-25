@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-25T18:45:19.893155+00:00",
+  "uretim_zamani": "2026-07-25T21:41:49.554588+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Confuses Exhaustion with Hunger (The Midnight Snack Trap)",
-      "url": "https://en.wikipedia.org/wiki/Ghrelin",
+      "baslik": "What your dominant sleeping position reveals about your personality",
+      "url": "https://en.wikipedia.org/wiki/Sleep_position",
       "kaynak": "gemini-fallback",
-      "skor": 1000,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 10-Minute Rule Your Brain Uses to Test if You are Actually Hungry",
-      "url": "https://en.wikipedia.org/wiki/Satiation",
+      "baslik": "The psychological trick to stop an overthinking spiral in 5 seconds",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The Psychology Trick That Instantly Makes People Lower Their Guard Around You",
-      "url": "https://en.wikipedia.org/wiki/Prattfall_effect",
+      "baslik": "Why your brain craves high-calorie foods when you are stressed",
+      "url": "https://en.wikipedia.org/wiki/Stress",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
