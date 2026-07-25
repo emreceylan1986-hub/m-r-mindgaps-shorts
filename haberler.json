@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-24T21:52:26.976798+00:00",
+  "uretim_zamani": "2026-07-25T14:53:48.729997+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain mistakes silence for a threat (The Dark Psychology of No-Contact)",
-      "url": "https://en.wikipedia.org/wiki/Silent_treatment",
+      "baslik": "What Your Texting Speed Reveals About Your Personality",
+      "url": "https://en.wikipedia.org/wiki/Personality_psychology",
       "kaynak": "gemini-fallback",
-      "skor": 1000,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-second eye contact trick that makes people do what you want",
-      "url": "https://en.wikipedia.org/wiki/Eye_gaze",
+      "baslik": "Why You Hate the Sound of Your Own Chewing",
+      "url": "https://en.wikipedia.org/wiki/Sensory_processing",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses low self-esteem with being 'too nice' to people",
-      "url": "https://en.wikipedia.org/wiki/People-pleasing",
+      "baslik": "The Psychology of Why You Secretly Love Sad Music",
+      "url": "https://en.wikipedia.org/wiki/Sadness",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
