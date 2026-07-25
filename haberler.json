@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-25T14:53:48.729997+00:00",
+  "uretim_zamani": "2026-07-25T18:45:19.893155+00:00",
   "haberler": [
     {
-      "baslik": "What Your Texting Speed Reveals About Your Personality",
-      "url": "https://en.wikipedia.org/wiki/Personality_psychology",
+      "baslik": "Why Your Brain Confuses Exhaustion with Hunger (The Midnight Snack Trap)",
+      "url": "https://en.wikipedia.org/wiki/Ghrelin",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 1000,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Hate the Sound of Your Own Chewing",
-      "url": "https://en.wikipedia.org/wiki/Sensory_processing",
+      "baslik": "The 10-Minute Rule Your Brain Uses to Test if You are Actually Hungry",
+      "url": "https://en.wikipedia.org/wiki/Satiation",
       "kaynak": "gemini-fallback",
-      "skor": 993,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The Psychology of Why You Secretly Love Sad Music",
-      "url": "https://en.wikipedia.org/wiki/Sadness",
+      "baslik": "The Psychology Trick That Instantly Makes People Lower Their Guard Around You",
+      "url": "https://en.wikipedia.org/wiki/Prattfall_effect",
       "kaynak": "gemini-fallback",
-      "skor": 990,
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
