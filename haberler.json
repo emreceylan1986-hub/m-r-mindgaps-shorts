@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-26T14:55:41.490448+00:00",
+  "uretim_zamani": "2026-07-26T18:50:14.860213+00:00",
   "haberler": [
     {
-      "baslik": "Stop Trying to Look Confident, Do This Instead",
-      "url": "https://en.wikipedia.org/wiki/Self-efficacy",
+      "baslik": "Why Your Brain Remembers Unfinished Tasks but Forgets Completed Ones",
+      "url": "https://en.wikipedia.org/wiki/Task_switching",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 5-second trick to stop overthinking right now",
-      "url": "https://en.wikipedia.org/wiki/Thought_suppression",
+      "baslik": "Why Your Brain Craves Sugar When You Are Mentally Exhausted",
+      "url": "https://en.wikipedia.org/wiki/Glucose",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 991,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you suddenly forget names the second you hear them",
-      "url": "https://en.wikipedia.org/wiki/Next-in-line_effect",
+      "baslik": "The 10-Second Physical Trick to Quiet an Anxious Mind",
+      "url": "https://en.wikipedia.org/wiki/Vagus_nerve",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 990,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
