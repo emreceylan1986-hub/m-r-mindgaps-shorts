@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-25T21:41:49.554588+00:00",
+  "uretim_zamani": "2026-07-26T14:55:41.490448+00:00",
   "haberler": [
     {
-      "baslik": "What your dominant sleeping position reveals about your personality",
-      "url": "https://en.wikipedia.org/wiki/Sleep_position",
+      "baslik": "Stop Trying to Look Confident, Do This Instead",
+      "url": "https://en.wikipedia.org/wiki/Self-efficacy",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The psychological trick to stop an overthinking spiral in 5 seconds",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+      "baslik": "The 5-second trick to stop overthinking right now",
+      "url": "https://en.wikipedia.org/wiki/Thought_suppression",
+      "kaynak": "gemini-fallback",
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you suddenly forget names the second you hear them",
+      "url": "https://en.wikipedia.org/wiki/Next-in-line_effect",
       "kaynak": "gemini-fallback",
       "skor": 994,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain craves high-calorie foods when you are stressed",
-      "url": "https://en.wikipedia.org/wiki/Stress",
-      "kaynak": "gemini-fallback",
-      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
