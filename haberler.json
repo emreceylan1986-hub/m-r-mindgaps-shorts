@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-26T18:50:14.860213+00:00",
+  "uretim_zamani": "2026-07-26T21:45:48.135930+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Remembers Unfinished Tasks but Forgets Completed Ones",
-      "url": "https://en.wikipedia.org/wiki/Task_switching",
+      "baslik": "How to Spot a Fake Friend in Under 10 Seconds",
+      "url": "https://en.wikipedia.org/wiki/Schadenfreude",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Craves Sugar When You Are Mentally Exhausted",
-      "url": "https://en.wikipedia.org/wiki/Glucose",
+      "baslik": "Why You Forget What You Just Read 5 Seconds Ago",
+      "url": "https://en.wikipedia.org/wiki/Decay_theory",
       "kaynak": "gemini-fallback",
-      "skor": 991,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 10-Second Physical Trick to Quiet an Anxious Mind",
-      "url": "https://en.wikipedia.org/wiki/Vagus_nerve",
+      "baslik": "Why You Instantly Get Tired When You Try to Study",
+      "url": "https://en.wikipedia.org/wiki/Avoidance_coping",
       "kaynak": "gemini-fallback",
-      "skor": 990,
+      "skor": 989,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
