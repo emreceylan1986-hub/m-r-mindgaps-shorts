@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-26T21:45:48.135930+00:00",
+  "uretim_zamani": "2026-07-27T16:05:56.993548+00:00",
   "haberler": [
     {
-      "baslik": "How to Spot a Fake Friend in Under 10 Seconds",
-      "url": "https://en.wikipedia.org/wiki/Schadenfreude",
+      "baslik": "Why You Get Quiet When You Are Extremely Hurt",
+      "url": "https://en.wikipedia.org/wiki/Defense_mechanism",
       "kaynak": "gemini-fallback",
       "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Forget What You Just Read 5 Seconds Ago",
-      "url": "https://en.wikipedia.org/wiki/Decay_theory",
+      "baslik": "Why You Randomly Remember Embarrassing Things Before Sleep",
+      "url": "https://en.wikipedia.org/wiki/Involuntary_memory",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Instantly Get Tired When You Try to Study",
-      "url": "https://en.wikipedia.org/wiki/Avoidance_coping",
+      "baslik": "Why You Feel Lonely Even When Surrounded by People",
+      "url": "https://en.wikipedia.org/wiki/Loneliness",
       "kaynak": "gemini-fallback",
-      "skor": 989,
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
