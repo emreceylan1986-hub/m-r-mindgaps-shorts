@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-27T19:06:26.707921+00:00",
+  "uretim_zamani": "2026-07-27T21:57:05.266145+00:00",
   "haberler": [
     {
-      "baslik": "Why You Can't Remember the First Few Seconds After Waking Up",
-      "url": "https://en.wikipedia.org/wiki/Anterograde_amnesia",
+      "baslik": "Why Your Mind Invents Fake Arguments While You Try to Rest",
+      "url": "https://en.wikipedia.org/wiki/Stimulus_generalization",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Your Brain Believes Flattery Even When You Know It's Fake",
-      "url": "https://en.wikipedia.org/wiki/Ingratiation",
+      "baslik": "Why Your Brain Hallucinates Sounds When the House Goes Dead Silent",
+      "url": "https://en.wikipedia.org/wiki/Auditory_illusion",
       "kaynak": "gemini-fallback",
-      "skor": 995,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why You Overestimate How Much Other People Notice Your Mistakes",
-      "url": "https://en.wikipedia.org/wiki/Bias",
-      "kaynak": "gemini-fallback",
-      "skor": 993,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
