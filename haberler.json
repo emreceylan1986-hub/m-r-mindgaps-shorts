@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-07-27T16:05:56.993548+00:00",
+  "uretim_zamani": "2026-07-27T19:06:26.707921+00:00",
   "haberler": [
     {
-      "baslik": "Why You Get Quiet When You Are Extremely Hurt",
-      "url": "https://en.wikipedia.org/wiki/Defense_mechanism",
+      "baslik": "Why You Can't Remember the First Few Seconds After Waking Up",
+      "url": "https://en.wikipedia.org/wiki/Anterograde_amnesia",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Randomly Remember Embarrassing Things Before Sleep",
-      "url": "https://en.wikipedia.org/wiki/Involuntary_memory",
+      "baslik": "Why Your Brain Believes Flattery Even When You Know It's Fake",
+      "url": "https://en.wikipedia.org/wiki/Ingratiation",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why You Feel Lonely Even When Surrounded by People",
-      "url": "https://en.wikipedia.org/wiki/Loneliness",
+      "baslik": "Why You Overestimate How Much Other People Notice Your Mistakes",
+      "url": "https://en.wikipedia.org/wiki/Bias",
       "kaynak": "gemini-fallback",
-      "skor": 992,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
