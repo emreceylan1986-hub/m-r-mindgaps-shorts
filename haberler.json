@@ -1,19 +1,11 @@
 {
-  "uretim_zamani": "2026-07-27T21:57:05.266145+00:00",
+  "uretim_zamani": "2026-07-28T15:58:29.913112+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Mind Invents Fake Arguments While You Try to Rest",
-      "url": "https://en.wikipedia.org/wiki/Stimulus_generalization",
+      "baslik": "Why your brain mistakes physical exhaustion for deep depression every evening",
+      "url": "https://en.wikipedia.org/wiki/Mental_fatigue",
       "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why Your Brain Hallucinates Sounds When the House Goes Dead Silent",
-      "url": "https://en.wikipedia.org/wiki/Auditory_illusion",
-      "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 1000,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
