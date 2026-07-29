@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-07-29T18:47:48.206560+00:00",
+  "uretim_zamani": "2026-07-29T21:44:18.139796+00:00",
   "haberler": [
     {
-      "baslik": "What your reaction to being late reveals about your personality",
-      "url": "https://en.wikipedia.org/wiki/Big_Five_personality_traits",
+      "baslik": "What your reaction to being interrupted reveals about your personality",
+      "url": "https://en.wikipedia.org/wiki/Interruption",
       "kaynak": "gemini-fallback",
-      "skor": 999,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "What your choice of music reveals about your cognitive style",
-      "url": "https://en.wikipedia.org/wiki/Psychology_of_music_preference",
-      "kaynak": "gemini-fallback",
-      "skor": 996,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why Your Brain Confuses Social Media Notifications with Real Achievement",
-      "url": "https://en.wikipedia.org/wiki/Dopaminergic_pathways",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
