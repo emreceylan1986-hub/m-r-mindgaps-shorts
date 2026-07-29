@@ -1,9 +1,17 @@
 {
-  "uretim_zamani": "2026-07-28T21:53:50.989195+00:00",
+  "uretim_zamani": "2026-07-29T15:46:44.694743+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Mind Sabotages Your Goals Right Before You Sleep",
-      "url": "https://en.wikipedia.org/wiki/Bedtime_procrastination",
+      "baslik": "What Your Desk Clutter Says About Your Creative Intelligence",
+      "url": "https://en.wikipedia.org/wiki/Environmental_psychology",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Introverts Recharge Alone While Extroverts Need Crowds to Breathe",
+      "url": "https://en.wikipedia.org/wiki/Extraversion_and_introversion",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
