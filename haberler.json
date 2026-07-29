@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-29T15:46:44.694743+00:00",
+  "uretim_zamani": "2026-07-29T18:47:48.206560+00:00",
   "haberler": [
     {
-      "baslik": "What Your Desk Clutter Says About Your Creative Intelligence",
-      "url": "https://en.wikipedia.org/wiki/Environmental_psychology",
+      "baslik": "What your reaction to being late reveals about your personality",
+      "url": "https://en.wikipedia.org/wiki/Big_Five_personality_traits",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why Introverts Recharge Alone While Extroverts Need Crowds to Breathe",
-      "url": "https://en.wikipedia.org/wiki/Extraversion_and_introversion",
+      "baslik": "What your choice of music reveals about your cognitive style",
+      "url": "https://en.wikipedia.org/wiki/Psychology_of_music_preference",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why Your Brain Confuses Social Media Notifications with Real Achievement",
+      "url": "https://en.wikipedia.org/wiki/Dopaminergic_pathways",
+      "kaynak": "gemini-fallback",
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
