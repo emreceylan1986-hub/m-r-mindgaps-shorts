@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-30T21:55:48.866231+00:00",
+  "uretim_zamani": "2026-07-31T15:53:11.716426+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain secretly loves people who make mistakes",
-      "url": "https://en.wikipedia.org/wiki/Pratfall_effect",
+      "baslik": "Why Your Brain Confuses Sympathy with Attraction When You Try to Fix Someone",
+      "url": "https://en.wikipedia.org/wiki/Codependency",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 991,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The psychology trick that makes people reveal the truth",
-      "url": "https://en.wikipedia.org/wiki/Cunningham%27s_Law",
+      "baslik": "Why You Automatically Lower Your Voice When You Are Telling a Lie",
+      "url": "https://en.wikipedia.org/wiki/Deception",
       "kaynak": "gemini-fallback",
-      "skor": 994,
+      "skor": 990,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "How Giving Someone a Warm Drink Instantly Makes Them Warm Up to Your Ideas",
+      "url": "https://en.wikipedia.org/wiki/Embodied_cognition",
+      "kaynak": "gemini-fallback",
+      "skor": 989,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
