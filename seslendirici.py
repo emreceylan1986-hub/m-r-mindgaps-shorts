@@ -70,6 +70,10 @@ Required structure (45-60 words total (≈27-33 seconds)):
 - HOOK (first sentence, MAX 8 words): a punchy, self-relevant curiosity-gap
   opener. Truthful. Feel: "Your brain edits your memories every night."
   / "You decide who to trust in 7 seconds." NO question marks.
+  ── SCENE RULE (31 Jul, channel-data locked): the hook must drop the viewer
+     into the CONCRETE everyday scene of the topic (the crowd, the next room,
+     their phone) — NEVER open with the clinical term or a statistic. Winners
+     recreate a moment; flops state facts.
 
   ── FORBIDDEN OPENING PATTERNS (bot/spam detection riski):
      "Did you know..." YASAK
@@ -107,9 +111,12 @@ Required structure (45-60 words total (≈27-33 seconds)):
      "Does this happen to you?" / "Overthinker or avoider — which are you?" /
      "What's the last thing you rechecked?"
      NEVER the words "comment below" — the bare question IS the invitation.
-  B) SUBSCRIBE ASK (otherwise): casual, warm, NOT pushy. Examples:
-     "Subscribe for daily mind facts."
-     "Follow to understand yourself better."
+  B) SUBSCRIBE ASK (otherwise): casual, warm, NOT pushy — and SERIAL:
+     this channel is a numbered series (Brain Glitch), the ask sells the
+     NEXT episode, not the channel. Examples:
+     "Follow for the next brain glitch."
+     "Tomorrow: why you trust some voices instantly."
+     (a one-line open-loop teaser for a plausible next topic is allowed)
   ── Variation per video. NEVER say "like" or "share".
   ── LOOP RULE: the ending must NOT feel like a goodbye — when the Short
      restarts, the flow should feel seamless (loop = rewatch = algorithm boost).

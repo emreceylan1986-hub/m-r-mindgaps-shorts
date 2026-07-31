@@ -144,6 +144,14 @@ def _metadata_dogrula(veri: dict) -> dict:
             "", veri["title"], flags=re.I).strip().strip('"').strip()
     if not veri.get("title"):
         veri["title"] = "Tech News Update"
+    # 31 Tem: SERİ KİMLİĞİ — "Brain Glitch #N". N yuklemeler.json'dan deterministik
+    # türetilir (ayrı state dosyası = merge riski; kayıt sayısı = kırılmaz sayaç).
+    try:
+        _n = len(json.loads(YUKLEME_LOGU.read_text(encoding="utf-8"))) + 1
+        if not veri["title"].startswith("Brain Glitch"):
+            veri["title"] = f"Brain Glitch #{_n}: " + veri["title"][:78].rstrip()
+    except Exception:
+        pass  # sayaç okunamazsa prefixsiz devam — upload asla engellenmez
     if len(veri["title"]) > 100:
         veri["title"] = veri["title"][:97] + "..."
     if "#Shorts" not in veri["description"]:

@@ -224,9 +224,30 @@ psychology, behavior, personality, or the brain that:
   • EFFORT düşük → tek cümlede anlaşılır, basit
 fikir_motoru.py bunu skorlar; başlık 3+ kol vurursa öncelikli.
 
+═══ SCENE GATE — HARD RULE (31 Tem 2026, kanal verisiyle kilitli) ═══
+Channel data is unambiguous: every top performer RECREATES A CONCRETE LIVED
+SCENE in the title; every flop states a clinical fact.
+WINNERS (real view counts from THIS channel):
+  917: "Why Your Brain Confuses Adrenaline with Attraction"
+  913: "Your brain sees faces in everyday objects"
+  894: "Your brain instantly detects your name even in a noisy crowd"
+  574: "Doorway effect explains why you forget what you needed in the next room"
+  389: "People unconsciously mirror those they like"
+FLOPS (0-1 views — NEVER produce topics shaped like these):
+  ✗ "Auditory pareidolia causes you to hear your name..." (clinical term as hook)
+  ✗ "Fast walking speed is linked to extraversion" ("X is linked to Y" statistic)
+  ✗ "The IKEA effect explains why we value our own creations" (named-effect lecture)
+  ✗ "Brain problem solving during sleep occurs through neural restructuring" (jargon)
+MANDATORY FOR EVERY TOPIC — all three, no exceptions:
+  1. The title contains a CONCRETE SCENE the viewer physically lived this week
+     (a place/moment/object: "in a noisy crowd", "the next room", "your phone").
+  2. FORBIDDEN as title framing: clinical terms first, "X is linked to Y",
+     "X occurs through Z", "The X effect explains". The named effect may appear
+     INSIDE the video, never as the hook.
+  3. Second person, present tense — the viewer is the protagonist of the scene.
+
 ═══ PROVEN VIRAL PATTERNS (psikoloji Shorts nişinde kanıtlı kalıplar) ═══
-  🧠 KENDİ KANALIMIZIN VİRALİ (25 Haz, n=1 ama güçlü sinyal):
-  🚀 897 izl: "Why Your Brain Confuses Adrenaline with Attraction"
+  🧠 KANAL VİRALİ (güncel top-5 yukarıda — SCENE GATE listesi)
      PATTERN: RELATABLE PHYSIOLOGICAL BIAS + "YOUR BRAIN CONFUSES X WITH Y"
      Konsept: Misattribution of arousal (Dutton-Aron köprü deneyi)
   ✅ "Why you check your phone the second you wake up" — DAVRANIŞ + 'why you'
