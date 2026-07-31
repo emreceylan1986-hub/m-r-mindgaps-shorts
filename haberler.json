@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-07-24T21:52:26.976798+00:00",
+  "uretim_zamani": "2026-07-30T21:55:48.866231+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain mistakes silence for a threat (The Dark Psychology of No-Contact)",
-      "url": "https://en.wikipedia.org/wiki/Silent_treatment",
-      "kaynak": "gemini-fallback",
-      "skor": 1000,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The 2-second eye contact trick that makes people do what you want",
-      "url": "https://en.wikipedia.org/wiki/Eye_gaze",
+      "baslik": "Why your brain secretly loves people who make mistakes",
+      "url": "https://en.wikipedia.org/wiki/Pratfall_effect",
       "kaynak": "gemini-fallback",
       "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses low self-esteem with being 'too nice' to people",
-      "url": "https://en.wikipedia.org/wiki/People-pleasing",
+      "baslik": "The psychology trick that makes people reveal the truth",
+      "url": "https://en.wikipedia.org/wiki/Cunningham%27s_Law",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
