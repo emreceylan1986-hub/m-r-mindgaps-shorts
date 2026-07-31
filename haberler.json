@@ -1,17 +1,17 @@
 {
-  "uretim_zamani": "2026-07-31T19:03:55.820829+00:00",
+  "uretim_zamani": "2026-07-31T21:54:56.954800+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain mistakes physical coldness for emotional rejection in a conversation",
-      "url": "https://en.wikipedia.org/wiki/Interpersonal_chemistry",
+      "baslik": "Why your brain mistakes silence for rejection during a text conversation",
+      "url": "https://en.wikipedia.org/wiki/Interpersonal_communication",
       "kaynak": "gemini-fallback",
       "skor": 1000,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses mild physical hunger with sudden creative inspiration",
-      "url": "https://en.wikipedia.org/wiki/Incentive_salience",
+      "baslik": "Why you automatically lower your voice when sharing a secret in an empty room",
+      "url": "https://en.wikipedia.org/wiki/Proxemics",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
