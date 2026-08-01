@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-08-01T14:51:03.094192+00:00",
+  "uretim_zamani": "2026-08-01T18:47:20.721320+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain invents the feeling of being watched in a dark room",
-      "url": "https://en.wikipedia.org/wiki/Hyperactive_agency_detection_device",
+      "baslik": "Your brain relives your worst social moments while you try to fall asleep",
+      "url": "https://en.wikipedia.org/wiki/Sleep_and_creativity",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Your brain blocks this sensory input every time you blink so your world doesn't shake",
-      "url": "https://en.wikipedia.org/wiki/Saccadic_suppression",
+      "baslik": "Why your brain blocks out the sound of your own snoring",
+      "url": "https://en.wikipedia.org/wiki/Sensory_gating",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 989,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you suddenly feel a fake phone vibration in your pocket",
-      "url": "https://en.wikipedia.org/wiki/Tactile_illusion",
+      "baslik": "Why your brain dreams about being completely unprepared for a test",
+      "url": "https://en.wikipedia.org/wiki/Dream#Anxiety",
       "kaynak": "gemini-fallback",
-      "skor": 995,
+      "skor": 987,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
