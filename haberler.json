@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-31T21:54:56.954800+00:00",
+  "uretim_zamani": "2026-08-01T14:51:03.094192+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain mistakes silence for rejection during a text conversation",
-      "url": "https://en.wikipedia.org/wiki/Interpersonal_communication",
+      "baslik": "Why your brain invents the feeling of being watched in a dark room",
+      "url": "https://en.wikipedia.org/wiki/Hyperactive_agency_detection_device",
       "kaynak": "gemini-fallback",
-      "skor": 1000,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you automatically lower your voice when sharing a secret in an empty room",
-      "url": "https://en.wikipedia.org/wiki/Proxemics",
+      "baslik": "Your brain blocks this sensory input every time you blink so your world doesn't shake",
+      "url": "https://en.wikipedia.org/wiki/Saccadic_suppression",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 996,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you suddenly feel a fake phone vibration in your pocket",
+      "url": "https://en.wikipedia.org/wiki/Tactile_illusion",
+      "kaynak": "gemini-fallback",
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
