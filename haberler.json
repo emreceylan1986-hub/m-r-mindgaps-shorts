@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-08-01T18:47:20.721320+00:00",
+  "uretim_zamani": "2026-08-01T21:41:47.207085+00:00",
   "haberler": [
     {
-      "baslik": "Your brain relives your worst social moments while you try to fall asleep",
-      "url": "https://en.wikipedia.org/wiki/Sleep_and_creativity",
+      "baslik": "Your brain paralyzes your muscles every night to keep you inside your dreams",
+      "url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you suddenly twitch and feel like you're falling the second you drift off to sleep",
+      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain blocks out the sound of your own snoring",
-      "url": "https://en.wikipedia.org/wiki/Sensory_gating",
-      "kaynak": "gemini-fallback",
-      "skor": 989,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain dreams about being completely unprepared for a test",
-      "url": "https://en.wikipedia.org/wiki/Dream#Anxiety",
-      "kaynak": "gemini-fallback",
-      "skor": 987,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
