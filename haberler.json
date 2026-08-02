@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-07-30T21:55:48.866231+00:00",
+  "uretim_zamani": "2026-08-02T14:53:34.905230+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain secretly loves people who make mistakes",
-      "url": "https://en.wikipedia.org/wiki/Pratfall_effect",
+      "baslik": "Why Your Brain Mistakes a Clean Desk for Having Actually Solved Your Problems",
+      "url": "https://en.wikipedia.org/wiki/Moral_licensing",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The psychology trick that makes people reveal the truth",
-      "url": "https://en.wikipedia.org/wiki/Cunningham%27s_Law",
+      "baslik": "How Your Brain Secretly Decides to Fail Before You Even Try to Focus",
+      "url": "https://en.wikipedia.org/wiki/Self-handicapping",
       "kaynak": "gemini-fallback",
       "skor": 994,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The Mental Glitch That Makes You Buy Things You Don't Need Just Because They Are on Sale",
+      "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+      "kaynak": "gemini-fallback",
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
