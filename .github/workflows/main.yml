@@ -5,7 +5,9 @@ on:
     # Mindgaps cron — TrendCatcher 12/16/19 · Cosmos 13/17/20 → Mindgaps 14/18/21 UTC
     # (protokol #6: quota çakışmasını önlemek için 1'er saat kaydırılmış)
     # 3 video/gün — yeni kanal + paylaşılan GCP quota (10K/gün, 3 kanal) için temkinli.
-    - cron: "0 14,18,21 * * *"
+    # 1 Ağu 2026: 3→2 video/gün. Gerekçe: 96 videoya 2 abone — nicelik işe
+    # yaramadı; SCENE GATE (31 Tem) kalite kilidine 11 Ağu'ya kadar ölçüm şansı.
+    - cron: "0 14,19 * * *"
   workflow_dispatch:
     inputs:
       gizlilik:
