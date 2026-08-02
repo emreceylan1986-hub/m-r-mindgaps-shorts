@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-08-01T21:41:47.207085+00:00",
+  "uretim_zamani": "2026-08-02T14:53:34.905230+00:00",
   "haberler": [
     {
-      "baslik": "Your brain paralyzes your muscles every night to keep you inside your dreams",
-      "url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+      "baslik": "Why Your Brain Mistakes a Clean Desk for Having Actually Solved Your Problems",
+      "url": "https://en.wikipedia.org/wiki/Moral_licensing",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you suddenly twitch and feel like you're falling the second you drift off to sleep",
-      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk",
+      "baslik": "How Your Brain Secretly Decides to Fail Before You Even Try to Focus",
+      "url": "https://en.wikipedia.org/wiki/Self-handicapping",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 994,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The Mental Glitch That Makes You Buy Things You Don't Need Just Because They Are on Sale",
+      "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+      "kaynak": "gemini-fallback",
+      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
