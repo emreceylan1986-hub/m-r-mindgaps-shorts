@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-08-02T14:53:34.905230+00:00",
+  "uretim_zamani": "2026-08-02T20:13:51.108739+00:00",
   "haberler": [
     {
-      "baslik": "Why Your Brain Mistakes a Clean Desk for Having Actually Solved Your Problems",
-      "url": "https://en.wikipedia.org/wiki/Moral_licensing",
+      "baslik": "Why Your Brain Mistakes Social Anxiety for Feeling Physically Cold in a Room",
+      "url": "https://en.wikipedia.org/wiki/Social_exclusion",
+      "kaynak": "gemini-fallback",
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "What Your Messy Smartphone Home Screen Reveals About Your Focus Style",
+      "url": "https://en.wikipedia.org/wiki/Information_overload",
       "kaynak": "gemini-fallback",
       "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "How Your Brain Secretly Decides to Fail Before You Even Try to Focus",
-      "url": "https://en.wikipedia.org/wiki/Self-handicapping",
+      "baslik": "Why You Don't Know What You Feel Anymore When You Scroll Your Phone in Silence",
+      "url": "https://en.wikipedia.org/wiki/Alexithymia",
       "kaynak": "gemini-fallback",
       "skor": 994,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The Mental Glitch That Makes You Buy Things You Don't Need Just Because They Are on Sale",
-      "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
-      "kaynak": "gemini-fallback",
-      "skor": 992,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
