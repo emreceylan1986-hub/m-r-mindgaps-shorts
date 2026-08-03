@@ -1,27 +1,19 @@
 {
-  "uretim_zamani": "2026-08-03T16:31:23.450904+00:00",
+  "uretim_zamani": "2026-08-03T20:36:59.093917+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain forces you to look at the ceiling when you try to remember a name",
-      "url": "https://en.wikipedia.org/wiki/Gaze_aversion",
+      "baslik": "Your brain instantly detects if someone is staring at you (Even when your eyes are closed)",
+      "url": "https://en.wikipedia.org/wiki/Gaze_detection",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The real reason your brain loves the smell of rain (Petrichor evolution)",
+      "url": "https://en.wikipedia.org/wiki/Petrichor",
       "kaynak": "gemini-fallback",
       "skor": 998,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain mistakes a sudden drop in room temperature for a ghost",
-      "url": "https://en.wikipedia.org/wiki/Infrasound",
-      "kaynak": "gemini-fallback",
-      "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain makes your hands shake during a tense confrontation",
-      "url": "https://en.wikipedia.org/wiki/Essential_tremor",
-      "kaynak": "gemini-fallback",
-      "skor": 994,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
