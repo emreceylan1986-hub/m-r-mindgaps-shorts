@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-08-03T20:36:59.093917+00:00",
+  "uretim_zamani": "2026-08-04T16:15:56.186120+00:00",
   "haberler": [
     {
-      "baslik": "Your brain instantly detects if someone is staring at you (Even when your eyes are closed)",
-      "url": "https://en.wikipedia.org/wiki/Gaze_detection",
+      "baslik": "Why your brain paralyzes you with indecision when your room is messy",
+      "url": "https://en.wikipedia.org/wiki/Overload_infinitum",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 996,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The real reason your brain loves the smell of rain (Petrichor evolution)",
-      "url": "https://en.wikipedia.org/wiki/Petrichor",
+      "baslik": "Why your brain makes you feel guilty for doing absolutely nothing",
+      "url": "https://en.wikipedia.org/wiki/Guilt_(emotion)",
       "kaynak": "gemini-fallback",
-      "skor": 998,
+      "skor": 989,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why you unconsciously lower your voice when talking to someone dominant",
+      "url": "https://en.wikipedia.org/wiki/Social_dominance_orientation",
+      "kaynak": "gemini-fallback",
+      "skor": 987,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
