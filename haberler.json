@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-08-04T16:15:56.186120+00:00",
+  "uretim_zamani": "2026-08-04T20:38:08.631690+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain paralyzes you with indecision when your room is messy",
-      "url": "https://en.wikipedia.org/wiki/Overload_infinitum",
+      "baslik": "Why your brain makes you forget your PIN the moment someone watches you",
+      "url": "https://en.wikipedia.org/wiki/Choking_(sports)",
       "kaynak": "gemini-fallback",
-      "skor": 996,
+      "skor": 993,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain makes you feel guilty for doing absolutely nothing",
-      "url": "https://en.wikipedia.org/wiki/Guilt_(emotion)",
+      "baslik": "Why your brain makes you look at your phone when you walk past a stranger",
+      "url": "https://en.wikipedia.org/wiki/Civil_inattention",
       "kaynak": "gemini-fallback",
       "skor": 989,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you unconsciously lower your voice when talking to someone dominant",
-      "url": "https://en.wikipedia.org/wiki/Social_dominance_orientation",
+      "baslik": "Why you crave sweet food the moment you finish a salty meal",
+      "url": "https://en.wikipedia.org/wiki/Sensory-specific_satiety",
       "kaynak": "gemini-fallback",
-      "skor": 987,
+      "skor": 988,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
