@@ -1,27 +1,11 @@
 {
-  "uretim_zamani": "2026-08-04T20:38:08.631690+00:00",
+  "uretim_zamani": "2026-08-05T16:03:29.705746+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain makes you forget your PIN the moment someone watches you",
-      "url": "https://en.wikipedia.org/wiki/Choking_(sports)",
+      "baslik": "What your reaction to a slow Wi-Fi connection reveals about you",
+      "url": "https://en.wikipedia.org/wiki/Frustration",
       "kaynak": "gemini-fallback",
-      "skor": 993,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why your brain makes you look at your phone when you walk past a stranger",
-      "url": "https://en.wikipedia.org/wiki/Civil_inattention",
-      "kaynak": "gemini-fallback",
-      "skor": 989,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "Why you crave sweet food the moment you finish a salty meal",
-      "url": "https://en.wikipedia.org/wiki/Sensory-specific_satiety",
-      "kaynak": "gemini-fallback",
-      "skor": 988,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
