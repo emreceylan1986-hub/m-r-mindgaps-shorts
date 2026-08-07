@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-08-07T14:59:39.245844+00:00",
+  "uretim_zamani": "2026-08-07T16:59:12.203511+00:00",
   "haberler": [
     {
-      "baslik": "Why you buy things you don't need when the store is crowded",
-      "url": "https://en.wikipedia.org/wiki/Social_contagion",
+      "baslik": "Why your brain mistakes a lower voice tone for authority and truth",
+      "url": "https://en.wikipedia.org/wiki/Vocal_pitch",
       "kaynak": "gemini-fallback",
-      "skor": 991,
+      "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why you feel intense guilt the second you sit down to relax",
-      "url": "https://en.wikipedia.org/wiki/Internalized_authority",
+      "baslik": "The dark psychology trick that makes people reveal secrets in 5 seconds",
+      "url": "https://en.wikipedia.org/wiki/Information_disclosure",
       "kaynak": "gemini-fallback",
-      "skor": 987,
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "Why your brain confuses familiarity with safety when meeting toxic people",
-      "url": "https://en.wikipedia.org/wiki/Repetition_compulsion",
+      "baslik": "The subtle manipulation tactic that makes you feel guilty for saying no",
+      "url": "https://en.wikipedia.org/wiki/Guilt_trip",
       "kaynak": "gemini-fallback",
-      "skor": 986,
+      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
