@@ -1,17 +1,25 @@
 {
-  "uretim_zamani": "2026-08-07T00:43:53.840671+00:00",
+  "uretim_zamani": "2026-08-07T14:59:39.245844+00:00",
   "haberler": [
     {
-      "baslik": "Your brain deletes this exact memory the moment you look at your phone",
-      "url": "https://en.wikipedia.org/wiki/Forgetting",
+      "baslik": "Why you buy things you don't need when the store is crowded",
+      "url": "https://en.wikipedia.org/wiki/Social_contagion",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 991,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-step mental trick that stops stage fright instantly",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_reappraisal",
+      "baslik": "Why you feel intense guilt the second you sit down to relax",
+      "url": "https://en.wikipedia.org/wiki/Internalized_authority",
+      "kaynak": "gemini-fallback",
+      "skor": 987,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why your brain confuses familiarity with safety when meeting toxic people",
+      "url": "https://en.wikipedia.org/wiki/Repetition_compulsion",
       "kaynak": "gemini-fallback",
       "skor": 986,
       "yas_saat": 0,
