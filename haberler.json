@@ -1,11 +1,19 @@
 {
-  "uretim_zamani": "2026-08-05T20:36:25.034358+00:00",
+  "uretim_zamani": "2026-08-07T00:43:53.840671+00:00",
   "haberler": [
     {
-      "baslik": "What your reaction to a slow elevator reveals about your personality",
-      "url": "https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_hypotheses",
+      "baslik": "Your brain deletes this exact memory the moment you look at your phone",
+      "url": "https://en.wikipedia.org/wiki/Forgetting",
       "kaynak": "gemini-fallback",
-      "skor": 999,
+      "skor": 997,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The 2-step mental trick that stops stage fright instantly",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_reappraisal",
+      "kaynak": "gemini-fallback",
+      "skor": 986,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
