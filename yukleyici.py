@@ -162,7 +162,7 @@ def _metadata_dogrula(veri: dict) -> dict:
     cta_sonek = (
         "\n\n━━━━━━━━━━━━━━━━━━━━\n"
         "🧠 Subscribe for daily mind facts:\n"
-        "https://youtube.com/@mindgaps?sub_confirmation=1\n\n"
+        "https://youtube.com/@getmindgaps?sub_confirmation=1\n\n"
         "Understand yourself a little better, every day."
     )
     if "sub_confirmation" not in veri["description"]:
