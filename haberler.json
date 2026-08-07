@@ -1,19 +1,27 @@
 {
-  "uretim_zamani": "2026-08-07T00:43:53.840671+00:00",
+  "uretim_zamani": "2026-08-07T19:55:44.303781+00:00",
   "haberler": [
     {
-      "baslik": "Your brain deletes this exact memory the moment you look at your phone",
-      "url": "https://en.wikipedia.org/wiki/Forgetting",
+      "baslik": "The 3-second pause that makes you look incredibly powerful in a meeting",
+      "url": "https://en.wikipedia.org/wiki/Silence",
       "kaynak": "gemini-fallback",
-      "skor": 997,
+      "skor": 999,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The 2-step mental trick that stops stage fright instantly",
-      "url": "https://en.wikipedia.org/wiki/Cognitive_reappraisal",
+      "baslik": "Why your brain secretly mirrors the posture of the person you are talking to",
+      "url": "https://en.wikipedia.org/wiki/Mirroring",
       "kaynak": "gemini-fallback",
-      "skor": 986,
+      "skor": 998,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "The dark psychology trick that makes people crave your approval",
+      "url": "https://en.wikipedia.org/wiki/Reward_system",
+      "kaynak": "gemini-fallback",
+      "skor": 997,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
