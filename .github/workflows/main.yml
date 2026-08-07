@@ -1,14 +1,16 @@
 name: M-R Otonom Pipeline
 
+# ═══ 7 AĞU 2026 — YAYIN DURDURULDU (Emre kararı) ═══
+# Kanıt: 103 video → 2 abone; son 7 günde 23 video / 36 izlenme (medyan 1).
+# 31 Tem SCENE GATE kalite kilidi kondu ama ölçüm penceresi tamamlanmadan
+# yayın durduruldu. Kanal, videolar, token, repo SİLİNMEDİ.
+#
+# ▶ YENİDEN BAŞLATMAK İÇİN: aşağıdaki "on:" bloğuna şunu geri ekle
+#     schedule:
+#       - cron: "0 14,16,19,21,23 * * *"
+#   (yedek_tetik.yml zaten devre dışı — 7 Ağu denetiminde çalışmadığı kanıtlandı)
+
 on:
-  schedule:
-    # Mindgaps cron — TrendCatcher 12/16/19 · Cosmos 13/17/20 → Mindgaps 14/18/21 UTC
-    # (protokol #6: quota çakışmasını önlemek için 1'er saat kaydırılmış)
-    # 3 video/gün — yeni kanal + paylaşılan GCP quota (10K/gün, 3 kanal) için temkinli.
-    # 1 Ağu 2026: 3→2 video/gün. Gerekçe: 96 videoya 2 abone — nicelik işe
-    # yaramadı; SCENE GATE (31 Tem) kalite kilidine 11 Ağu'ya kadar ölçüm şansı.
-    # 7 Ağu: hedef 2 video, 5 cron saati (telafi payı) — bkz. yukleyici hedef kapısı
-    - cron: "0 14,16,19,21,23 * * *"
   workflow_dispatch:
     inputs:
       gizlilik:
