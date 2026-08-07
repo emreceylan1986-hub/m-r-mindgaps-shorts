@@ -1,27 +1,27 @@
 {
-  "uretim_zamani": "2026-08-07T16:59:12.203511+00:00",
+  "uretim_zamani": "2026-08-07T19:55:44.303781+00:00",
   "haberler": [
     {
-      "baslik": "Why your brain mistakes a lower voice tone for authority and truth",
-      "url": "https://en.wikipedia.org/wiki/Vocal_pitch",
+      "baslik": "The 3-second pause that makes you look incredibly powerful in a meeting",
+      "url": "https://en.wikipedia.org/wiki/Silence",
+      "kaynak": "gemini-fallback",
+      "skor": 999,
+      "yas_saat": 0,
+      "yorum_sayisi": 0
+    },
+    {
+      "baslik": "Why your brain secretly mirrors the posture of the person you are talking to",
+      "url": "https://en.wikipedia.org/wiki/Mirroring",
       "kaynak": "gemini-fallback",
       "skor": 998,
       "yas_saat": 0,
       "yorum_sayisi": 0
     },
     {
-      "baslik": "The dark psychology trick that makes people reveal secrets in 5 seconds",
-      "url": "https://en.wikipedia.org/wiki/Information_disclosure",
+      "baslik": "The dark psychology trick that makes people crave your approval",
+      "url": "https://en.wikipedia.org/wiki/Reward_system",
       "kaynak": "gemini-fallback",
       "skor": 997,
-      "yas_saat": 0,
-      "yorum_sayisi": 0
-    },
-    {
-      "baslik": "The subtle manipulation tactic that makes you feel guilty for saying no",
-      "url": "https://en.wikipedia.org/wiki/Guilt_trip",
-      "kaynak": "gemini-fallback",
-      "skor": 995,
       "yas_saat": 0,
       "yorum_sayisi": 0
     }
