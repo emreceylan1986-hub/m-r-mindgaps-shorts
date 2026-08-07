@@ -7,7 +7,8 @@ on:
     # 3 video/gün — yeni kanal + paylaşılan GCP quota (10K/gün, 3 kanal) için temkinli.
     # 1 Ağu 2026: 3→2 video/gün. Gerekçe: 96 videoya 2 abone — nicelik işe
     # yaramadı; SCENE GATE (31 Tem) kalite kilidine 11 Ağu'ya kadar ölçüm şansı.
-    - cron: "0 14,19 * * *"
+    # 7 Ağu: hedef 2 video, 5 cron saati (telafi payı) — bkz. yukleyici hedef kapısı
+    - cron: "0 14,16,19,21,23 * * *"
   workflow_dispatch:
     inputs:
       gizlilik:
