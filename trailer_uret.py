@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-trailer_uret.py — TrendCatcher kanal trailer (~25 sn).
+trailer_uret.py — Mindgaps kanal trailer (~25 sn).
 
 Shorts üretim motorunu yeniden kullan: Pexels video + Wikimedia foto +
 ASS altyazı + ses mux. TC shorts'larıyla aynı kalite.
@@ -68,7 +68,7 @@ def main():
     ham_klipler = []
     for i, kw in enumerate(KEYWORDS, 1):
         ham = GECICI / f"ham_{i}.mp4"
-        bilgi = montajci.gorsel_kaynak_indir(kw, ham, klip_basi, api_key, baslik="TrendCatcher Trailer")
+        bilgi = montajci.gorsel_kaynak_indir(kw, ham, klip_basi, api_key, baslik="Mindgaps Trailer")
         log(f"   #{i} '{kw}' → {bilgi.get('fotograf','?')} ({ham.stat().st_size//1024} KB)")
         ham_klipler.append(ham)
 

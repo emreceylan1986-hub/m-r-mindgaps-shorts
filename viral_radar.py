@@ -16,13 +16,12 @@ PANEL_KOK = Path(__file__).parent
 TOKEN = PANEL_KOK / "token.json"
 CIKTI = PANEL_KOK / "viral_targets.json"
 
-# Niş anahtar kelimeleri — TrendCatcher için extreme/anomaly nature
+# Niş anahtar kelimeleri — Mindgaps psikoloji/zihin (7 Ağu: TC hayvan seed'leri temizlendi)
 NIS_ANAHTAR = [
-    "mountain goat", "ibex climbing", "markhor", "bighorn",
-    "extreme animal", "nature anomaly", "amazing wildlife",
-    "rare animal", "deep sea creature", "extremophile",
-    "pink lake", "boiling lake", "weird nature",
-    "wild facts", "incredible animal", "tardigrade",
+    "psychology facts", "why your brain", "brain glitch", "cognitive bias",
+    "body language signs", "overthinking at night", "dopamine habits",
+    "attachment style", "memory trick", "social psychology", "doorway effect",
+    "why you forget", "first impression psychology", "dark psychology",
 ]
 
 

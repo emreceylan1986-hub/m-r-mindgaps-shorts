@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CosmoBytes kanal ilk kurulum scripti — workflow_dispatch ile tetiklenir.
+Mindgaps kanal ilk kurulum scripti — workflow_dispatch ile tetiklenir.
 
 Yaptıkları:
   1. Kanal "About" / description doldur (brandingSettings.channel.description)
@@ -338,7 +338,7 @@ def sectionlari_kur(yt):
 
 
 def main():
-    log("=== TrendCatcher kanal kurulumu başladı ===")
+    log("=== Mindgaps kanal kurulumu başladı ===")
     yt = yt_istemci()
     kanal = kanal_bilgi(yt)
     kanal_id = kanal["id"]

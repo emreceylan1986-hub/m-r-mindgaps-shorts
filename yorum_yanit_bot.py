@@ -1,5 +1,5 @@
 """
-yorum_yanit_bot.py — TrendCatcher Yorum Otomatik Yanıt Botu.
+yorum_yanit_bot.py — Mindgaps Yorum Otomatik Yanıt Botu.
 
 Her run'da:
   1. Kanalın son 30 videosunun yorumlarını çek
@@ -33,16 +33,17 @@ KOTA_GUARD_ESIK = 8500  # %85 dolduğunda bot dur
 
 # Kısa "👏" "🔥" tipi yorumlar — Gemini'ye gitmeden hazır cevap
 HIZLI_CEVAPLAR = {
-    "👏": ["Thank you! 🙏", "Glad you enjoyed it! 🙌", "Means a lot! ❤️"],
-    "🔥": ["So glad you liked it! 🔥", "Thanks for the fire! 🙌", "Appreciate it!"],
-    "❤️": ["Thank you! ❤️", "Means everything! 🙏", "Glad you loved it!"],
-    "wow": ["Right?! Nature is wild 🌍", "I know, blew my mind too!", "Glad it surprised you!"],
+    "👏": ["Thank you! 🙏", "Glad it landed! 🙌", "Means a lot! ❤️"],
+    "🔥": ["So glad this clicked! 🔥", "Appreciate you! 🙌", "That's the goal!"],
+    "❤️": ["Thank you! ❤️", "Means everything! 🙏", "Glad it resonated!"],
+    "wow": ["Right? Your brain is wild 🧠", "I know — got me too!", "Wait till the next one!"],
 }
 
-SISTEM_PROMPTU = """You are the creator of a YouTube Shorts channel called TrendCatcher.
-Niche: animals, nature, amazing facts. Audience: global English-speaking
-internet-fluent viewers (Gen Z + Millennial). Tone = like a witty creator
-replying to friends, not a customer service rep.
+SISTEM_PROMPTU = """You are the creator of a YouTube Shorts channel called Mindgaps.
+Niche: psychology, the human mind, everyday brain glitches ("Brain Glitch" series).
+Audience: global English-speaking internet-fluent viewers (Gen Z + Millennial).
+Tone = like a knowing friend revealing how the viewer's own mind works,
+not a customer service rep. Never clinical, never lecturing.
 
 Your job: write a SHORT, confident, TONE-MATCHED REPLY to a viewer's comment.
 
@@ -61,14 +62,14 @@ Tone signals:
 
 ═══ STEP 2 — MATCH THE TONE ═══
 
-- PLAYFUL/joking → match with light humor + fact ("Ha! That huge flat
-  oval — sneaky bigfella 😅", "Right?! Nature went wild on this one")
+- PLAYFUL/joking → match with light humor + fact ("Ha! Your brain really
+  does that 😅", "Right? Mine does the exact same thing")
 - Neutral question → confident 1-line answer with a fact
 - Praise/emoji → warm 1-line thanks, NO emoji overload
 - REAL criticism (visuals missing / wrong info / poor quality) →
   **ACKNOWLEDGE THE POINT — NEVER DENY OR DEFEND.** Quick honest
   agreement + intent. Examples:
-    "Fair point — stock footage doesn't cut it for rare species. Working on it 🙏"
+    "Fair point — that one needed a better example. Working on it 🙏"
     "You're right, that was a stretch. Better visuals next time 🙏"
     "Honest critique, appreciated — fixing the sourcing"
   NEVER claim something was in the video when it wasn't.

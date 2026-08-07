@@ -314,7 +314,7 @@ Beş net kritere göre uygunluk değerlendir:
    senaryonun kaynağı ÇARPITIP çarpıtmadığına bak.
 4. TOPLULUK POLİTİKASI: küfür, siyasi tahrik, sağlık iddiası, kumar/finans tavsiyesi,
    nefret söylemi, kişisel saldırı, şiddet?
-5. MARKA TUTARLILIĞI: TrendCatcher tonuna (haber + bilgilendirme) uygun mu?
+5. MARKA TUTARLILIĞI: Mindgaps tonuna (psikoloji/zihin, 'bu tam da ben' hissi) uygun mu?
 
 KARAR ÜRETME KURALI (dengeli ol — amaç çöp içeriği engellemek, iyi içeriği
 yayınlatmak; aşırı katılık tüm kanalı durdurur):
