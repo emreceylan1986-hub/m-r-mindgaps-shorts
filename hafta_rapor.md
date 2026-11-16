@@ -1,9 +1,9 @@
 # 📊 Mindgaps Daily — Haftalık Rapor
-_2026-11-09T01:29+00:00_
+_2026-11-16T01:36+00:00_
 
 ## Özet
 - **Abone:** 2 (+0 bu hafta)
-- **Toplam view:** 6,093 (+9 bu hafta)
+- **Toplam view:** 6,103 (+10 bu hafta)
 - **Toplam video:** 112
 - **Son 7 gün:** 0 video, 0 izl, ort 0/video
 - **<50 izl video sayısı:** 0/0 (kalite_temizleyici aday)
